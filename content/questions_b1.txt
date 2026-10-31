@@ -1,0 +1,287 @@
+# B1 soruları
+
+@B1.G01
+M | I ___ with my parents until I find a flat. | live / am living* / lived | Geçici durum | Present Continuous | Geçici durum → am living.
+M | It ___ colder every day. | gets / is getting* / got | Değişen durum | is getting | Değişen/gelişen durum → Present Continuous.
+M | He ___ his keys! It's so annoying. | always loses / is always losing* / always is losing | Şikâyet | always + Continuous | always + Continuous şikâyet bildirir.
+S | Prices ___ (go) up these days. | are going | Değişen durum | are + -ing | Prices are going up.
+T | "I'm living in Ankara since 2015." doğrudur. | Y | since + süre → Present Perfect | I've lived | I've lived in Ankara since 2015.
+
+@B1.G02
+M | The train ___ at 6 tomorrow morning. | will leave / leaves* / is leaving to | Tarife | Present Simple | Tarife ve programlar Present Simple.
+M | I ___ Ali at 5. We arranged it yesterday. | will meet / am meeting* / meet | Ayarlanmış randevu | Present Continuous | Kesin randevu → am meeting.
+M | — It's cold. — I ___ close the window. | am going to / 'll* / close | Anlık karar | will | Anlık karar → will.
+S | I ___ going to learn German next year. (niyet) | am / 'm | Niyet | going to | I'm going to learn German.
+T | "The film starts at 8." gelecek için kullanılabilir. | D | Program | | Program/tarife için Present Simple gelecek anlamı taşır.
+
+@B1.G03
+M | I ___ for an hour. | am waiting / have been waiting* / waited | Hâlâ sürüyor + süre | have been + -ing | Süren eylem + süre → Present Perfect Continuous.
+M | You're wet. ___ you been running? | Did / Have* / Are | İzi görünen | have been | Have you been running?
+S | How long ___ you been learning English? | have | Soru | have | How long have you been...?
+S | She ___ (work) here since 2022. | has been working / has worked | Since | has been + -ing | She has been working here since 2022.
+T | "I've been knowing him for years." doğrudur. | Y | know durum fiili | I've known | Durum fiilleri continuous olmaz.
+
+@B1.G04
+M | I ___ three books this month. | have been reading / have read* / am reading | Sonuç, miktar | Simple | Miktar/sonuç → Present Perfect Simple.
+M | I'm tired. I ___ all day. | have worked / have been working* / worked | Süreç, süre | Continuous | Süreç vurgusu → Continuous.
+M | She ___ her keys. She can't get in. | has been losing / has lost* / loses | Sonuç | Simple | Sonuç önemli → has lost.
+S | How many cups of coffee ___ you had today? | have | Sayı → Simple | have | How many ... have you had?
+T | "I've been writing five emails." doğal bir cümledir. | Y | Sayı → Simple | I've written | I've written five emails.
+
+@B1.G06
+M | When I arrived, everyone ___. | left / had left* / was leaving | Daha önce olan | Past Perfect | Benden önce gitmişlerdi → had left.
+M | It ___ when we left the house. | rained / was raining* / had rain | Arka plan | Past Continuous | Arka plan → was raining.
+S | She ___ (read) when the phone rang. | was reading | Süren eylem | was + -ing | was reading.
+M | I couldn't pay because I ___ my wallet. | forgot / had forgotten* / was forgetting | Daha önce | had + V3 | had forgotten.
+T | Anlatıda arka plan genellikle Past Continuous ile verilir. | D | | | Arka plan → Past Continuous, olaylar → Past Simple.
+
+@B1.G07
+M | Every summer we ___ go to the village. | would* / used / were | Tekrarlanan eylem | would | Geçmişte tekrarlanan eylem → would / used to.
+M | I ___ have long hair. | would / used to* / was used to | Geçmiş durum | used to | Durum fiilinde sadece used to.
+T | "I would live in Izmir when I was a child." doğrudur. | Y | live durum | used to live | I used to live in Izmir.
+S | We ___ to play outside every day. | used | Alışkanlık | used to | We used to play...
+
+@B1.G08
+M | I'm used to ___ up early. | get / getting* / got | be used to + ? | -ing | be used to + -ing.
+M | She is getting used to ___ alone. | live / living* / lived | get used to | -ing | get used to + -ing.
+M | I ___ smoke, but I stopped. | am used to / used to* / get used to | Eskiden | used to + V1 | used to + yalın = eskiden yapardım.
+T | "I'm used to work at night." doğrudur. | Y | be used to + -ing | working | I'm used to working at night.
+
+@B1.G09
+M | This time tomorrow I ___ to London. | will fly / will be flying* / am flying | Gelecekte belli an | will be + -ing | Future Continuous.
+S | At 8 pm I ___ (watch) the match. | will be watching / 'll be watching | Belli an | will be + -ing | will be watching.
+T | "Don't call at 9, I will be sleeping." doğrudur. | D | | | Gelecekte belli bir anda süren eylem.
+
+@B1.G10
+M | I ___ for hours when he finally called. | was waiting / had been waiting* / have waited | Geçmişteki andan önce süren | had been + -ing | Past Perfect Continuous.
+S | She was tired because she ___ (run). | had been running | Sebep, süreç | had been + -ing | had been running.
+T | Past Perfect Continuous: had been + V3. | Y | -ing | had been + -ing | Yapı had been + -ing'dir.
+
+@B1.G11
+M | He's been working all day. He ___ be tired. | can't / must* / mustn't | Eminim öyle | must | must = eminim öyle.
+M | That ___ be Ali. He's in London now. | must / can't* / mustn't | Eminim değil | can't | can't = olamaz.
+M | She ___ be at home. I'm not sure. | must / might* / can't | Emin değilim | might | might = olabilir.
+T | "It mustn't be true." çıkarım için doğrudur. | Y | Olumsuz çıkarım | can't | It can't be true.
+
+@B1.G12
+M | You ___ told me! Now it's too late. | should / should have* / must | Geçmişe pişmanlık | should have + V3 | should have told.
+M | He's late. He ___ missed the bus. | should have / must have* / mustn't have | Geçmiş çıkarım | must have + V3 | must have missed.
+S | I shouldn't have ___ (eat) so much. | eaten | V3 | eaten | shouldn't have eaten.
+M | You ___ called me. I would have helped. | could have* / could / can have | Yapabilirdin | could have + V3 | could have called.
+T | "She can't have seen us." = Bizi görmüş olamaz. | D | | | can't have + V3 = olamaz.
+
+@B1.G13
+M | You ___ hurry or you'll miss the bus. | 'd better* / 'd better to / better | had better + yalın | | had better + yalın fiil.
+M | You'd better ___ late. | don't be / not be* / not to be | Olumsuz | had better not | had better not + yalın.
+S | You ___ to see a doctor. (should) | ought | ought to | ought | ought to = should.
+T | "You had better to go." doğrudur. | Y | to yok | had better go | You had better go.
+
+@B1.G14
+M | We ___ park here. It's forbidden. | aren't allowed to* / don't need to / needn't | Yasak | be allowed to | aren't allowed to = izin yok.
+M | You ___ bring food. We have plenty. | mustn't / don't need to* / aren't allowed | Gerek yok | don't need to | needn't / don't need to = gerek yok.
+S | ___ you allowed to go out when you were a child? | Were | Geçmiş | were | Were you allowed to...?
+T | "needn't" ile "mustn't" aynı anlama gelir. | Y | gerek yok / yasak | | needn't = gerek yok, mustn't = yasak.
+
+@B1.G15
+M | If I ___ the lottery, I'd travel the world. (hayal) | win / won* / will win | Hayali | Second | Second: If + past.
+M | If it ___ tomorrow, we'll cancel the trip. (olası) | rains* / rained / will rain | Olası | First | First: If + present.
+T | "If I won" gerçekleşmesi düşük ya da hayali bir durumu anlatır. | D | | | Second conditional hayali.
+
+@B1.G16
+M | If I had known, I ___ you. | would help / would have helped* / helped | Third | would have + V3 | would have helped.
+S | If we ___ (leave) earlier, we wouldn't have missed the train. | had left | Third, if tarafı | had + V3 | had left.
+T | Third conditional geçmişi değiştirmenin hayalidir. | D | | | Geçmişte olmadı, hayal ediyoruz.
+
+@B1.G17
+M | Take an umbrella ___ it rains. | unless / in case* / as long as | ihtimaline karşı | in case | in case = ihtimaline karşı.
+M | You can borrow it ___ you bring it back. | in case / as long as* / unless | ...dığı sürece | as long as | as long as = koşuluyla.
+M | ___ you hurry, you'll be late. | Unless* / In case / As long as | if ... not | unless | Unless = if not.
+T | "in case it will rain" doğrudur. | Y | will yok | in case it rains | in case it rains.
+
+@B1.G18
+M | I wish I ___ more time. (şimdi) | have / had* / will have | Şimdiye dilek | wish + Past | wish + Past Simple.
+M | I wish I ___ harder. (geçmişte) | studied / had studied* / study | Geçmişe pişmanlık | wish + Past Perfect | had studied.
+S | I wish I ___ taller. (be) | were / was | wish + were | were | I wish I were taller.
+M | I wish you ___ stop talking! | will / would* / are | Başkasının davranışı | would | wish + would = şikâyet.
+
+@B1.G19
+M | English ___ all over the world. | speaks / is spoken* / spoke | Edilgen | is + V3 | is spoken.
+M | The house ___ in 1920. | built / was built* / has built | Geçmiş edilgen | was + V3 | was built.
+S | It was painted ___ Picasso. | by | yapan | by | by + yapan.
+M | My bike ___ last night! | stole / was stolen* / is stolen | Yapan bilinmiyor | was + V3 | was stolen.
+T | "The letters are send every day." doğrudur. | Y | V3 | sent | are sent.
+
+@B1.G20
+M | The road ___ at the moment. | is repaired / is being repaired* / repairs | Şu an süren, edilgen | is being + V3 | Present Continuous passive.
+M | The car ___ already. | has sold / has been sold* / is sold | Present Perfect edilgen | has been + V3 | has been sold.
+M | It ___ tomorrow. | will finish / will be finished* / is finished | Gelecek edilgen | will be + V3 | will be finished.
+S | This work must ___ done today. | be | modal + be + V3 | be | must be done.
+T | "The tickets had been sold." Past Perfect edilgendir. | D | had been + V3 | | Doğru.
+
+@B1.G21
+M | I ___ my hair cut yesterday. | made / had* / did | Başkasına yaptırmak | have + nesne + V3 | had my hair cut.
+M | We're having the house ___. | paint / painted* / painting | V3 | painted | having the house painted.
+S | I need to get my car ___ (fix). | fixed | get + nesne + V3 | fixed | get my car fixed.
+T | "I cut my hair" ile "I had my hair cut" aynı anlamdadır. | Y | Kendin mi, başkası mı? | | I cut my hair = kendim kestim; I had my hair cut = kestirdim.
+
+@B1.G22
+M | "I'm tired." → He said he ___ tired. | is / was* / has been | Zaman kayar | is → was | am/is → was.
+M | "I'll help you." → She said she ___ help me. | will / would* / can | will → would | | will → would.
+M | He ___ me that he was busy. | said / told* / spoke | Kişi nesnesi var | tell + kişi | tell + kişi, say nesnesiz.
+S | "I saw it." → He said he ___ ___ it. | had seen | Past → Past Perfect | had + V3 | had seen.
+T | "She said me that..." doğrudur. | Y | say + kişi olmaz | She told me / She said that | She told me that... / She said that...
+
+@B1.G23
+M | "Are you OK?" → She asked ___ I was OK. | that / if* / what | Evet/hayır sorusu | if | if / whether.
+M | "Where do you live?" → He asked where ___. | do I live / I lived* / did I live | Düz cümle | özne + fiil | Dolaylı soruda düz cümle sırası.
+S | "What time is it?" → She asked what time it ___. | was | Zaman kayar | was | asked what time it was.
+T | "He asked me where did I go." doğrudur. | Y | did kalkar | where I went | He asked me where I went.
+
+@B1.G24
+M | "Wait!" → He told me ___. | wait / to wait* / waiting | Emir | to + V1 | told me to wait.
+M | "Don't go." → She asked me ___. | don't go / not to go* / to not going | Olumsuz | not to | asked me not to go.
+S | "Please sit down." → He asked us to ___ down. | sit | to + yalın | sit | asked us to sit down.
+
+@B1.G25
+M | The woman ___ called you is my aunt. | which / who* / where | İnsan | who | who / that.
+M | That's the café ___ we met. | which / where* / when | Yer | where | where.
+M | The boy ___ bike was stolen is crying. | who / whose* / which | Aitlik | whose | whose = -in.
+S | The phone ___ I bought is broken. | which / that | Nesne | which / that | which/that (atılabilir de).
+T | "The book what I read was good." doğrudur. | Y | what relative olmaz | which / that | The book which/that I read...
+
+@B1.G26
+M | My brother, ___ lives in Izmir, is a doctor. | that / who* / which | Virgüllü ek bilgi | that olmaz | Non-defining → who / which, that değil.
+M | Ankara, ___ is the capital, is in the centre. | that / which* / where | Nesne/yer adı + ek bilgi | which | which (that olmaz).
+T | Non-defining relative clause virgül arasında yazılır. | D | | | Ek bilgi virgüllerle ayrılır.
+
+@B1.G27
+M | Can you tell me where ___? | is the station / the station is* / does the station | Dolaylı soru | düz cümle | Dolaylı soruda düz cümle sırası.
+M | Do you know what time ___? | does it open / it opens* / opens it | Düz cümle | it opens | Do you know what time it opens?
+S | Do you know ___ the shop is open? | if / whether | Evet/hayır | if | if / whether.
+T | "I wonder where is he." doğrudur. | Y | düz cümle | where he is | I wonder where he is.
+
+@B1.G28
+M | It's cold, ___? | is it / isn't it* / doesn't it | Olumlu → olumsuz | | isn't it?
+M | You haven't seen it, ___? | haven't you / have you* / did you | Olumsuz → olumlu | have you | have you?
+S | She can drive, ___ she? | can't | can | can't | can't she?
+
+@B1.G29
+M | I've been to Rome. — ___ | So did I. / So have I.* / So I have. | Present Perfect | have | So have I.
+M | I didn't see it. — ___ | Neither did I.* / So did I. / Neither I did. | Olumsuz, geçmiş | did | Neither did I.
+S | I'd love to go. — So ___ I. | would | would | would | So would I.
+
+@B1.G30
+M | I avoid ___ late. | to eat / eating* / eat | avoid + ? | -ing | avoid + -ing.
+M | I hope ___ you soon. | seeing / to see* / see | hope + ? | to | hope + to.
+M | They agreed ___ us. | helping / to help* / help | agree + ? | to | agree + to.
+S | ___ (swim) is good for your health. | swimming | Özne olarak | -ing | Özne konumunda -ing.
+M | I'm looking forward to ___ you. | see / seeing* / to see | to burada edat | -ing | look forward to + -ing.
+
+@B1.G31
+M | I stopped ___. Now I'm healthier. (sigarayı bıraktım) | to smoke / smoking* / smoke | Bırakmak | -ing | stop + -ing = bırakmak.
+M | He stopped ___ a coffee. (kahve almak için durdu) | buying / to buy* / buy | Amaç | to | stop + to = bir şey yapmak için durmak.
+M | Remember ___ the door when you leave. | locking / to lock* / lock | Yapmayı unutma | to | remember + to = yapmayı hatırla.
+M | I'll never forget ___ her for the first time. | to meet / meeting* / meet | Yaşanmış anı | -ing | forget + -ing = yaptığını unutmak.
+T | "Try turning it off and on again." bir deneme önerisidir. | D | try + -ing | | try + -ing = deneyip sonuca bakmak.
+
+@B1.G32
+M | I saved money ___ I could travel. | to / so that* / for | Cümle + modal | so that | so that + cümle.
+M | I went out ___ bread. | so that buy / to buy* / for buy | Amaç fiil | to | to + yalın.
+S | I left early so that I ___ be late. (olumsuz) | wouldn't / would not | so that + not | wouldn't | so that I wouldn't be late.
+T | "in order to" ile "to" aynı anlamdadır. | D | | | in order to daha resmîdir.
+
+@B1.G33
+M | She's good ___ maths. | in / at* / on | good + ? | at | good at.
+M | I'm interested ___ history. | on / in* / at | interested + ? | in | interested in.
+M | It depends ___ the weather. | of / on* / from | depend + ? | on | depend on.
+S | I'm afraid ___ dogs. | of | afraid + ? | of | afraid of.
+S | We're waiting ___ the bus. | for | wait + ? | for | wait for.
+M | I'm tired ___ waiting. | from / of* / with | tired + ? | of | tired of.
+
+@B1.G34
+M | I have ___ friends here, so I'm not lonely. | few / a few* / little | Yeterli, olumlu | a few | a few = birkaç (olumlu).
+M | He has ___ friends. He feels lonely. | a few / few* / a little | Olumsuz anlam | few | few = çok az, yetersiz.
+M | There's ___ milk left. Let's buy some. | a little / little* / few | Yetersiz | little | little = çok az.
+S | We have ___ of time. Don't hurry. | plenty | bolca | plenty of | plenty of = bolca.
+
+@B1.G35
+M | ___ of them are doctors. | Either / Both* / Neither | İkisi de, çoğul fiil | both | Both ... are.
+M | ___ of them came. | Both / Neither* / Either | Hiçbiri | neither | Neither of them came.
+S | You can take ___ one. (ikisinden biri) | either | ikisinden biri | either | either one.
+M | ___ my brother nor my sister likes tea. | Either / Neither* / Both | nor | neither ... nor | neither ... nor.
+
+@B1.G36
+M | Can I have ___ coffee? | other / another* / others | bir tane daha, tekil | another | another + tekil.
+M | One is red, ___ is blue. | another / the other* / other | ikisinden öteki | the other | the other.
+M | Some like tea, ___ like coffee. | other / others* / another | isimsiz çoğul | others | others = diğerleri.
+S | ___ people think differently. (diğer) | Other | other + çoğul | other | Other people...
+
+@B1.G37
+M | The film was ___. | bored / boring* / bore | Hissi veren | -ing | boring = sıkıcı.
+M | I'm ___ in history. | interesting / interested* / interest | Kişinin hissi | -ed | interested = ilgili.
+S | I was so ___ (tire) after work. | tired | Hissi | -ed | tired.
+T | "I'm boring" = "Sıkıldım." | Y | -ing → sıkıcıyım | I'm bored | I'm bored = sıkıldım; I'm boring = sıkıcıyım.
+
+@B1.G38
+M | It was ___ cold day. | so a / such a* / so | such + a + sıfat + isim | such a | such a cold day.
+M | It was ___ cold that we stayed home. | such / so* / such a | so + sıfat | so | so cold that.
+S | They're ___ nice people. | such | such + sıfat + çoğul isim | such | such nice people.
+
+@B1.G39
+M | I cut ___. | me / myself* / mine | Özne = nesne | myself | I → myself.
+M | They love ___. (birbirini) | themselves / each other* / theirs | Karşılıklı | each other | each other = birbirini.
+S | Enjoy ___! (siz, çoğul) | yourselves | you çoğul | -selves | yourselves.
+S | She lives by ___. (tek başına) | herself | by + dönüşlü | herself | by herself = tek başına.
+
+@B1.G40
+M | The more you practise, ___ you get. | better / the better* / more better | the ...-er | the + comp | the more ..., the better ...
+S | The sooner, the ___. | better | Kalıp | better | The sooner, the better.
+
+@B1.G41
+M | ___ the rain, we went out. | Although / Despite* / However | + isim | despite | despite + isim.
+M | ___ it was raining, we went out. | Despite / Although* / In spite | + cümle | although | although + cümle.
+M | It was raining. ___, we went out. | Despite / However* / Although | Yeni cümle | however | However, ...
+S | In spite ___ the traffic, we arrived on time. | of | in spite of | of | in spite of.
+T | "Despite it was cold, we swam." doğrudur. | Y | despite + isim | Although it was cold / Despite the cold | Although it was cold, we swam.
+
+@B1.G42
+M | I fell asleep ___ the film. | while / during* / for | isim | during | during + isim.
+M | I waited ___ two hours. | during / for* / while | süre | for | for + süre.
+M | ___ I was eating, the phone rang. | During / While* / For | cümle | while | while + cümle.
+
+@B1.G43
+M | ___ the traffic, I was late. | Because / Because of* / So | + isim | because of | because of + isim.
+M | It was late, ___ we went home. | because / so* / due to | sonuç | so | so = bu yüzden.
+S | The flight was cancelled ___ to bad weather. | due | due to | due | due to + isim.
+M | ___ it was late, we took a taxi. | As* / Due to / Because of | + cümle, başta | as | As + cümle = çünkü.
+T | "Therefore" resmî yazıda "so" yerine kullanılabilir. | D | | | therefore = bu nedenle (resmî).
+
+@B1.G44
+M | ___ I didn't like it, but now I love it. | First / At first* / Finally | Başta | at first | at first = başlangıçta (sonra değişti).
+M | He looked for a job for months and ___ found one. | eventually* / at first / then first | Sonunda | eventually | eventually = uzun süreden sonra sonunda.
+S | First, boil the water. ___, add the pasta. | Then / Next / After that | Sonra | then | Sıralama: first → then → finally.
+
+@B1.G45
+M | Can you ___ my cat while I'm away? | look for / look after* / look at | bakmak, ilgilenmek | look after | look after = bakmak.
+M | I'm looking forward ___ you. | to see / to seeing* / seeing | look forward to + -ing | | look forward to seeing.
+M | We've ___ milk. Can you buy some? | run out of* / run out / run off | tükenmek | run out of | run out of = kalmamak.
+S | The meeting was put ___ until next week. | off | ertelemek | put off | put off = ertelemek.
+M | He ___ the job offer. | turned down* / turned off / turned up | reddetmek | turn down | turn down = reddetmek.
+S | I get ___ with my colleagues. (iyi geçinmek) | on | get on with | on | get on with = iyi geçinmek.
+S | Did you find ___ who broke the window? | out | öğrenmek | find out | find out = öğrenmek.
+
+@B1.G22 B1.G23
+W | A friend told you some news yesterday. Report what he said and asked (5 sentences). | 45 | My friend Can told me that he had found a new job. He said that he was very happy. He told me that he would start next Monday. He asked me if I wanted to celebrate with him. He also asked where I was working now. | said / told + zaman kaydırma | Soru → if / soru kelimesi + düz cümle | Reported speech.
+
+@B1.G03 B1.G04
+W | Write about something you have been doing recently (a hobby, a course, a project). | 50 | I have been learning English for two years. Recently I have been studying every evening. I have finished two grammar books and I have learned a lot of new words. I have also been listening to podcasts. I think my English has improved a lot. | Süreç: have been + -ing | Sonuç: have + V3 | Present Perfect Simple / Continuous.
+
+@B1.G41 B1.G43
+W | Is living in a big city good or bad? Give your opinion with reasons (6 sentences). | 60 | I think living in a big city has advantages and disadvantages. Although big cities are expensive, there are more jobs. Because of the traffic, people waste a lot of time. However, there are many cultural activities. Due to pollution, the air is often bad. Therefore, I would prefer to live in a smaller city. | although / despite / however | because of / due to / therefore | Fikir bildirme + bağlaçlar.
+
+@B1.G05
+M | I ___ him yesterday. | have seen / saw* / had seen | Zaman belli | Past Simple | yesterday → Past Simple.
+M | I ___ that film. It's great. | saw yesterday / have seen* / see | Zaman belli değil | Present Perfect | Deneyim, zaman yok → have seen.
+M | She ___ in Izmir for five years, but now she lives in Ankara. | has lived / lived* / lives | Bitmiş dönem | Past Simple | Artık orada yaşamıyor → lived.
+S | ___ you ever eaten sushi? | Have | Deneyim | have | Have you ever...?
+T | "I have finished it two days ago." doğrudur. | Y | ago → Past Simple | I finished | I finished it two days ago.

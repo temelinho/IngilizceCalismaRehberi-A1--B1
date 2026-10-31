@@ -1,0 +1,280 @@
+# A1 soruları. Biçim için tool/build_content.py başına bakın.
+
+@A1.01
+M | I have ___ idea. | a / an* | Yazıya değil okunuşa bak. | idea sesli harf sesiyle başlıyor (/ay/). | idea /aydiə/ sesli sesle başlar → an.
+M | She is ___ university student. | a* / an | u harfi nasıl okunuyor? | university /ju:/ sesiyle başlar. | university "yu" diye okunur, bu sessiz bir sestir → a.
+M | We waited for ___ hour. | a / an* | h harfi okunuyor mu? | hour'da h okunmaz. | hour /aur/ sesli sesle başlar → an.
+S | He is ___ engineer. (a/an) | an | engineer nasıl başlıyor? | Sesli harf sesi → ? | engineer sesli harf sesiyle başlar → an.
+S | It's ___ big house. (a/an) | a | Sıfat da önemlidir. | big sessiz harfle başlar. | a/an'ı isimden önceki ilk kelime belirler: big → a.
+T | "an European city" doğru bir kullanımdır. | Y | European'ın ilk sesine bak. | /ju:/ sesi sessiz sayılır. | European /yurəpiən/ diye okunur → a European city.
+M | Choose the correct one. | a umbrella / an umbrella* / umbrella an | umbrella nasıl okunuyor? | /ʌ/ sesli bir sestir. | umbrella sesli sesle başlar → an umbrella.
+
+@A1.02
+M | city → ? | citys / cities* / cityes | y'den önceki harfe bak. | t sessiz → y düşer. | Sessiz harf + y → -ies: cities.
+M | boy → ? | boies / boys* / boyes | y'den önceki harf sesli mi? | o sesli harftir. | Sesli harf + y → sadece -s: boys.
+S | She ___ (study) English every day. | studies | studY: d sessiz. | y → ies | Sessiz harf + y → -ies: studies.
+S | He ___ (play) football on Sundays. | plays | a sesli harftir. | Sadece -s | Sesli harf + y → -s: plays.
+S | She ___ (wash) the dishes. | washes | -sh ile bitiyor. | -es eklenir. | -s, -sh, -ch, -x, -o ile bitenler -es alır: washes.
+M | He ___ to school by bus. | gos / goes* / goies | -o ile biten fiil. | go → ? | -o ile bitenler -es alır: goes.
+S | My father ___ (fix) cars. | fixes | -x ile bitiyor. | -es | -x ile bitenler -es alır: fixes.
+T | "watchs" doğru yazımdır. | Y | -ch ile biten fiil. | -es gerekir. | watch → watches.
+
+@A1.03
+M | I get up ___ 7 o'clock. | in / on / at* | Saatle hangi edat? | saat → at | Saatlerde at kullanılır.
+M | My birthday is ___ June. | in* / on / at | Ay isimleri... | ay → in | Aylar, yıllar, mevsimler → in.
+M | We have English ___ Monday. | in / on* / at | Gün isimleri... | gün → on | Günlerde on kullanılır.
+S | I was born ___ 2004. | in | Yıl | yıl → in | Yıllarda in kullanılır.
+S | I don't work ___ the weekend. | at / on | Hafta sonu için iki kullanım da var. | İngiliz: at the weekend, Amerikan: on the weekend. | at the weekend (UK) / on the weekend (US) ikisi de doğrudur.
+M | I read books ___ the evening. | in* / on / at | Gün parçaları (morning, evening)... | in the morning / in the evening | Gün parçalarında in kullanılır; ama at night.
+M | We sleep ___ night. | in / on / at* | night istisnadır. | at night | at night kalıptır (in the night değil).
+M | Which is spelled correctly? | Wensday / Wednesday* / Wendesday | d harfi nerede? | Wed-nes-day | Doğru yazım: Wednesday (d okunmaz).
+T | Gün ve ay isimleri küçük harfle yazılır: monday, june. | Y | İngilizce yazım kuralı. | Büyük harf | Gün ve ay isimleri büyük harfle başlar: Monday, June.
+S | The party is ___ 5 May. | on | Tarih | tarih → on | Tam tarihlerde on kullanılır.
+
+@A1.04
+M | She ___ in a hospital. | work / works* / working | Özne she. | he/she/it → fiil+s | Geniş zamanda he/she/it ile fiile -s gelir.
+M | They ___ coffee in the morning. | drinks / drink* / drinking | Özne they. | I/you/we/they → ek yok | they ile fiil yalın kalır: drink.
+M | He ___ like fish. | don't / doesn't* / isn't | Olumsuz, özne he. | he → does not | he/she/it olumsuz: doesn't + yalın fiil.
+M | ___ your brother live in Ankara? | Do / Does* / Is | Özne your brother = he. | he → Does | he/she/it sorusunda Does kullanılır.
+S | She doesn't ___ (watch) TV. | watch | doesn't varken fiil? | does -s'yi kendine çeker. | doesn't'tan sonra fiil yalın: watch (watches ❌).
+S | ___ you speak English? | Do | Özne you. | you → Do | I/you/we/they sorusu Do ile kurulur.
+M | Does he ___ a car? | has / have* / having | Does varken fiil yalın. | has'in yalın hâli? | Does + yalın fiil: Does he have a car?
+S | Does she work here? — No, she ___. | doesn't / does not | Kısa cevap. | No, she ... | Kısa cevapta yardımcı fiil tekrarlanır: No, she doesn't.
+T | "He don't like tea." doğru bir cümledir. | Y | Özne he. | doesn't olmalı. | He doesn't like tea.
+M | I ___ got a car. (olumsuz) | don't / haven't* / doesn't | have got'ın olumsuzu. | have got → haven't got | have got olumsuz: haven't got (= I don't have a car).
+
+@A1.05
+M | I ___ get up early. | always* / am always / always am | Normal fiil var. | sıklık zarfı fiilden önce | Özne + sıklık zarfı + fiil: I always get up early.
+M | She ___ late. | always is / is always* / always | to be fiili var. | to be'den sonra | Sıklık zarfı to be'den SONRA gelir: She is always late.
+S | We go to the cinema once a month. "Ne sıklıkla" kelimesi: once a ___ | month | Ayda bir | once a month = ayda bir | once a week/month/year = haftada/ayda/yılda bir.
+M | Which is the least frequent? | sometimes / often / never* | Hiç | never = hiç | Sıklık sırası: always > usually > often > sometimes > rarely > never.
+T | "I go never to the gym." doğrudur. | Y | Zarf fiilden önce gelir. | I never go | Doğrusu: I never go to the gym.
+M | Choose the correct sentence. | He usually is tired. / He is usually tired.* / Usually he is tired always. | to be var mı? | to be'den sonra | Sıklık zarfı to be'den sonra: He is usually tired.
+S | I visit my grandmother ___ ___. (her hafta) | every week | Her = every | every + week | every day / every week = her gün / her hafta.
+
+@A1.06
+M | Where ___ she work? | do / does* / is | Özne she. | Soru kelimesi + does + özne + fiil | Wh- sorularında he/she/it ile does.
+M | What time ___ you get up? | do* / does / are | Özne you. | do | you ile do kullanılır.
+S | How ___ do you go to the cinema? — Once a month. | often | Sıklık sorusu. | How ... ? | How often = ne sıklıkla.
+M | Who ___ you live with? | do* / does / are | Özne you. | do | Who do you live with? = Kiminle yaşıyorsun?
+M | How does he ___ money? | earns / earn* / earning | does var. | Fiil yalın kalır. | does varken fiil yalın: earn.
+S | ___ do you work? — Because I need money. | Why | Cevap because ile başlıyor. | Neden? | because ile cevaplanan soru Why ile sorulur.
+M | Where does she work? — She ___ at a factory. | work / works* / is work | Cevap olumlu cümle. | she → +s | Cevapta geniş zaman kuralı: She works.
+S | ___ do you go to work? — By bus. | How | By bus = otobüsle. | Nasıl? | Ulaşım şekli How ile sorulur.
+
+@A1.07
+M | "walks" nasıl okunur? | /s/* / /z/ / /ız/ | k sert ünsüzdür. | Sert ünsüz → /s/ | k sert ünsüz olduğu için -s /s/ okunur.
+M | "plays" nasıl okunur? | /s/ / /z/* / /ız/ | y sesli gibi davranır. | Yumuşak → /z/ | Sesli ve yumuşak ünsüzden sonra /z/: /pleyz/.
+M | "washes" nasıl okunur? | /s/ / /z/ / /ız/* | -es eki | sh'den sonra | s, sh, ch, x'ten sonra -es /ız/ okunur.
+M | "runs" nasıl okunur? | /s/ / /z/* / /ız/ | n yumuşak ünsüzdür. | /z/ | n yumuşak → /ranz/.
+M | "stops" nasıl okunur? | /s/* / /z/ / /ız/ | p sert ünsüzdür. | /s/ | p sert ünsüz → /s/.
+T | "fixes" kelimesindeki -es /ız/ diye okunur. | D | x ile bitiyor. | /ız/ | fixes → /fiksız/.
+
+@A1.08
+M | ___ a cat in the garden. | There are / There is* / It is | Tekil isim. | tekil → is | Tekil isimle there is.
+M | ___ two books on the table. | There is / There are* / They are | Çoğul. | çoğul → are | Çoğul isimle there are.
+M | ___ any eggs in the fridge? | Is there / Are there* / There are | Soru, çoğul. | Are there...? | Çoğul soru: Are there any...?
+S | What ___ is your car? — It's red. | color / colour | Renk sorusu | What ... is | What color is ...? = ... ne renk?
+S | ___ there a bank near here? | Is | Tekil soru | Is there | Tekil soruda be başa: Is there...?
+T | "There is three apples." doğrudur. | Y | three apples çoğul. | are | There are three apples.
+M | What do you feel like ___? | do / doing* / to do | feel like + ? | -ing | feel like + -ing: Canın ne yapmak istiyor?
+
+@A1.09
+M | Look! The children ___ in the garden. | play / are playing* / plays | Look! = şu an | am/is/are + -ing | Şu an olan eylem: Present Continuous.
+M | She ___ sleeping now. | isn't* / doesn't / don't | Present Continuous olumsuz. | is not | am/is/are + not + -ing.
+S | ___ you reading a book now? | Are | Soru, you. | be başa gelir | Present Continuous sorusu: Are you ...ing?
+M | Where ___ they studying? | do / are* / is | -ing var. | am/is/are ara | Wh- + be + özne + -ing.
+S | I ___ (fly) to Rome next week. (plan) | am flying / 'm flying | Kesinleşmiş plan. | am + -ing | Kesin gelecek planı Present Continuous ile anlatılır.
+M | Why ___ she smiling? | is* / does / are | -ing var, özne she. | is | Why is she smiling?
+T | "I'm flying to Rome next week." cümlesi geniş zamandır. | Y | -ing var. | Şimdiki zamanın gelecek anlamı. | Bu cümle Present Continuous'ın gelecek plan anlamıdır.
+S | They ___ (not / watch) TV at the moment. | aren't watching / are not watching / 're not watching | at the moment = şu anda | are not + -ing | Olumsuz: aren't watching.
+
+@A1.10
+M | I ___ the answer. | am knowing / know* / knowing | know durum fiilidir. | -ing almaz | State verb'ler continuous olmaz: I know.
+M | She ___ a book right now. | reads / is reading* / read | read hareket fiilidir. | right now | Action verb + şu an → is reading.
+M | We ___ breakfast at the moment. | have / are having* / has | have burada "yemek" anlamında. | hareket → -ing | have = yemek anlamında -ing alır: are having breakfast.
+M | He ___ a new car. (sahiplik) | is having / has* / have | Sahiplik durumdur. | durum → -ing almaz | Sahiplik anlamında have -ing almaz: He has a new car.
+T | "I am wanting a coffee." doğru bir cümledir. | Y | want durum fiilidir. | I want | want state verb: I want a coffee.
+S | They ___ (need) help now. | need | need durum fiili. | now olsa da -ing yok | State verb: They need help now.
+M | Which is a state verb? | run / believe* / listen | Hareket değil, durum. | believe = inanmak | believe, know, want, need, love, understand durum fiilleridir.
+
+@A1.11
+M | I ___ that English is easy. (bence) | am thinking / think* / thinking | Fikir bildiriyor. | -ing almaz | Fikir anlamında think continuous olmaz.
+M | I ___ about my exams now. | think / am thinking* / thinks | "düşünüyorum" (zihinsel süreç) | think about + -ing olabilir | Düşünme eylemi: am thinking about.
+S | What ___ you thinking about? | are | -ing var. | be fiili | What are you thinking about? = Ne düşünüyorsun?
+S | What ___ you think about this film? (fikir) | do | Fikir soruluyor. | do | What do you think? = Ne düşünüyorsun (fikrin ne)?
+T | "I'm thinking that you are right." fikir bildirmek için en doğal kullanımdır. | Y | Fikir → think | I think that... | Fikir için: I think (that) you are right.
+
+@A1.12
+M | I would like ___ some water. | drink / to drink* / drinking | would like + fiil | to gelir | would like + to + fiil.
+M | ___ you like some tea? | Do / Would* / Are | Kibar teklif | Would | Would you like ...? = ... ister misin?
+S | Would you like a coffee? — Yes, ___. (kibarca) | please / I would | Kibar evet | Yes, please. | Yes, please. / Yes, I would.
+M | "I'd like a coffee" ne demek? | Kahve severim / Bir kahve isterim* / Kahve içtim | would like = istemek | like = sevmek | I'd like = I would like = isterim.
+T | "I like coffee" ile "I'd like a coffee" aynı anlama gelir. | Y | like vs would like | sevmek / istemek | like = severim, would like = isterim.
+S | Would you like ___ (go) out tonight? | to go | would like + to | to + yalın | Would you like to go out?
+
+@A1.13
+M | My parents love ___. | I / me* / my | Nesne gerekiyor. | I → me | Nesne zamiri: me.
+M | Her friends visit ___. (she) | she / her* / hers | Nesne zamiri | she → her | she'nin nesne hâli her.
+M | We trust ___. (he) | he / his / him* | Nesne | he → him | he'nin nesne hâli him.
+S | They are my friends. I like ___. | them | they'in nesne hâli | them | they → them.
+M | This is ___ book. (biz) | us / our* / we | Aitlik | we → our | Aitlik sıfatı: our book.
+S | Can you help ___? (biz) | us | Nesne | we → us | we'nin nesne hâli us.
+M | The dog is eating ___ food. | it's / its* / it | Aitlik, nesne/hayvan | it → its | its = onun (aitlik). it's = it is.
+
+@A1.14
+M | There is ___ dog in the garden. | a* / the / - | İlk kez söz ediliyor. | belirsiz → a | İlk kez bahsedilen tekil isim → a/an.
+M | There is a dog in the garden. ___ dog is very big. | A / The* / - | Artık biliniyor. | ikinci kez → the | Daha önce geçen isim → the.
+M | ___ sun is very hot today. | A / The* / - | Tek olan varlık | the sun | Tek olan varlıklar the alır.
+M | ___ apples are good for you. (genel) | The / An / -* | Genelleme | article yok | Genellemelerde article kullanılmaz.
+S | What's ___ weather like today? | the | weather | the weather | weather the ile kullanılır.
+T | "I love the music." genel olarak müziği sevdiğini söyler. | Y | Genelleme | article yok | Genel: I love music.
+
+@A1.15
+M | I don't know ___. | someone / anyone* / no one | Olumsuz cümle | any- | Olumsuzda any-: I don't know anyone.
+M | ___ is at the door. | Anyone / Someone* / Anything | Olumlu cümle, birisi. | some- | Olumlu: Someone is at the door.
+M | I know ___. (hiçbir şey) | anything / nothing* / something | Olumlu fiil + hiç | no- | no- zaten olumsuz: I know nothing.
+S | Is there ___ in the fridge? (herhangi bir şey) | anything | Soru | any- | Soruda any-: anything.
+T | "I don't know nothing." doğrudur. | Y | Çift olumsuz | ya don't + anything ya nothing | I don't know anything / I know nothing.
+M | You can sit ___. (herhangi bir yer) | anywhere* / nowhere / anything | Olumluda any = herhangi | anywhere | Olumlu cümlede any- = herhangi: anywhere.
+S | Let's go ___ nice tonight. (bir yer) | somewhere | Olumlu öneri | some- + where | somewhere = bir yere.
+
+@A1.16
+M | I ___ a student last year. | am / was* / were | Geçmiş, I | I → was | I/he/she/it → was.
+M | They ___ at home yesterday. | was / were* / are | Geçmiş, they | they → were | you/we/they → were.
+M | I ___ to school yesterday. | didn't walked / didn't walk* / not walked | Olumsuz geçmiş | didn't + yalın | didn't + yalın fiil.
+S | ___ you talk to your teacher yesterday? | Did | Geçmiş soru, normal fiil | Did | Did + özne + yalın fiil.
+S | I ___ (sleep) eight hours last night. | slept | Düzensiz fiil | sleep → ? | sleep – slept.
+S | We ___ (buy) some bread this morning. | bought | Düzensiz | buy → ? | buy – bought.
+M | ___ you tired yesterday? | Did / Were* / Was | Durum (tired) var. | sıfat → was/were | Durum/sıfat → was/were: Were you tired?
+M | Did she ___ to Paris? | went / go* / goes | did var | yalın | did varken fiil yalın: go.
+S | He ___ (speak) with a tourist. | spoke | Düzensiz | speak → ? | speak – spoke.
+T | "Did you went there?" doğrudur. | Y | did + ? | yalın | Did you go there?
+
+@A1.17
+M | Mike bought a car. → ___ bought a car? | Who* / Who did / Whom did | Özne soruluyor. | did yok | Özneyi sorarken did kullanılmaz: Who bought a car?
+M | I met Carol. → Who ___ meet? | you did / did you* / you | Nesne soruluyor. | did + özne | Nesneyi sorarken: Who did you meet?
+S | ___ did you eat last night? — A cake. | What | Ne? | What | What did you eat?
+M | ___ cake did you eat, the chocolate one or the lemon one? | What / Which* / Who | Sınırlı seçenek | Which | Seçenekler belliyse which.
+T | "Who did call you?" özneyi soran doğru bir sorudur. | Y | Özne sorusu | did yok | Who called you?
+S | Ali broke the window. → Who ___ the window? | broke | Özne sorusu | V2 | Who broke the window? (did yok, fiil V2)
+
+@A1.18
+M | "Have you ever been abroad?" ne demek? | Hiç yurt dışına gittin mi?* / Yurt dışında mısın? / Yurt dışına gidecek misin? | ever = hiç | abroad = yurt dışı | Have you ever...? = Hiç ... oldu mu?
+M | "Let me see..." ne zaman söylenir? | Düşünürken* / Vedalaşırken / Teşekkür ederken | see = bakmak | Bir bakayım... | Let me see = dur bir bakayım / düşüneyim.
+S | ___ I help you? (mağazada) | May / Can | Kibar teklif | May | May I help you? = Yardımcı olabilir miyim?
+M | "I guess" en yakın anlamı? | Sanırım* / Biliyorum / Eminim | guess = tahmin etmek | | I guess = sanırım.
+
+@A1.G01
+M | I ___ a student. | is / am* / are | Özne I | I → am | I am.
+M | They ___ from Turkey. | is / are* / am | Özne they | are | they are.
+S | My sister ___ a nurse. | is | my sister = she | is | she → is.
+S | Are you tired? — Yes, I ___. | am | Kısa cevap | kısaltma yok | Olumlu kısa cevapta kısaltma kullanılmaz: Yes, I am.
+M | ___ he your brother? | Do / Is* / Does | to be sorusu | be başa | to be varsa do/does yok: Is he...?
+T | "Do you happy?" doğru bir sorudur. | Y | happy sıfat → to be | Are you happy? | Sıfat cümlesi to be ile kurulur.
+S | We ___ (not) at home. | aren't / are not / 're not | Olumsuz, we | are not | We aren't at home.
+
+@A1.G02
+M | ___ is my car over there. | This / That* / These | Uzakta, tekil | that | Uzaktaki tekil → that.
+M | ___ shoes are new. (elimdeki) | This / These* / That | Yakın, çoğul | these | Yakındaki çoğul → these.
+S | Look at ___ birds in the sky! (uzak, çoğul) | those | Uzak çoğul | those | Uzaktaki çoğul → those.
+M | These ___ my books. | is / are* / am | these çoğul | are | these/those + are.
+T | "This books are mine." doğrudur. | Y | books çoğul | These | These books are mine.
+
+@A1.G03
+M | one man, two ___ | mans / men* / mens | Düzensiz | man → men | man – men.
+M | one child, three ___ | childs / children* / childrens | Düzensiz | children | child – children.
+S | one tooth, two ___ | teeth | Düzensiz | tooth → ? | tooth – teeth.
+M | There ___ many people here. | is / are* / was | people çoğul | are | people çoğuldur → are.
+S | one knife, two ___ | knives | -fe → ? | -ves | knife – knives.
+M | one sheep, ten ___ | sheeps / sheep* / sheepes | Değişmeyen | sheep | sheep ve fish çoğulda değişmez.
+S | one woman, two ___ | women | Düzensiz | woman → ? | woman – women.
+
+@A1.G04
+M | She ___ swim very well. | cans / can* / can to | can her öznede aynı | can + yalın | can -s almaz.
+M | Can you ___ a car? | drives / drive* / to drive | can + ? | yalın | can + yalın fiil.
+S | Can he cook? — No, he ___. | can't / cannot | Kısa cevap | can't | No, he can't.
+M | ___ I open the window? (izin) | Do / Can* / Am | İzin isteme | Can | Can I...? izin ister.
+T | "He can speaks English." doğrudur. | Y | can + yalın | speak | He can speak English.
+
+@A1.G05
+M | She ___ got two brothers. | have / has* / is | she | has got | he/she/it → has got.
+M | ___ you got a pen? | Do / Have* / Are | have got sorusu | Have ... got | Have you got...?
+S | I ___ got a car. (olumsuz) | haven't / have not | Olumsuz | haven't got | I haven't got a car.
+S | Has he got a bike? — Yes, he ___. | has | Kısa cevap | has | Yes, he has.
+T | "Do you have got a dog?" doğrudur. | Y | do ile have got karışmaz | Have you got / Do you have | Ya Have you got a dog? ya Do you have a dog?
+M | "I've got a cat" = ? | I have a cat* / I had a cat / I get a cat | have got = have | | have got sahiplik bildirir = have.
+
+@A1.G06
+M | There is ___ milk in the fridge. | a / some* / any | Olumlu, sayılamayan | some | Olumlu cümlede some.
+M | There isn't ___ bread. | some / any* / a | Olumsuz | any | Olumsuzda any.
+M | Would you like ___ tea? | any / some* / a | Teklif | some | Teklif ve ricada soruda da some.
+S | Are there ___ apples? | any | Soru | any | Soruda any.
+M | Which is uncountable? | apple / water* / book | Sayılamayan | water | water sayılamaz; a water / two waters denmez (genelde).
+T | "I need an advice." doğrudur. | Y | advice sayılamaz | a piece of advice | advice sayılamaz: some advice / a piece of advice.
+S | Can I have ___ water, please? | some | Rica | some | Ricada some.
+
+@A1.G07
+M | How ___ apples do you want? | much / many* / any | apples sayılabilen | many | Sayılabilen çoğul → how many.
+M | How ___ money have you got? | many / much* / more | money sayılamaz | much | Sayılamayan → how much.
+S | How ___ is this shirt? — It's 20 euros. | much | Fiyat | much | Fiyat: How much is...?
+M | How ___ water do you drink a day? | many / much* / lot | water | much | water sayılamaz.
+T | "How many people are there?" doğrudur. | D | people çoğul sayılabilen | many | people sayılabilir → How many.
+
+@A1.G08
+M | The cat is ___ the bed. (yatağın altında) | on / under* / in | altında | under | under = altında.
+M | The book is ___ the table. (masanın üstünde) | in / on* / at | temas eden üst | on | Yüzey üstü → on.
+S | I'm ___ home now. | at | ev | at home | at home kalıptır.
+M | She lives ___ Ankara. | at / in* / on | şehir | in | Şehir ve ülke → in.
+M | The bank is ___ the cafe and the school. | next / between* / behind | ikisinin arasında | between | between A and B.
+S | The keys are ___ the box. (içinde) | in | içinde | in | in the box.
+T | "The picture is in the wall." doğrudur. | Y | Duvarın yüzeyi | on | The picture is on the wall.
+
+@A1.G09
+M | I like ___ books. | read / reading* / reads | like + ? | -ing | like/love/hate + -ing.
+M | She ___ cooking. | love / loves* / loving | Özne she | +s | She loves cooking.
+S | They hate ___ (wait). | waiting | hate + -ing | -ing | hate waiting.
+M | I'd like ___ to the cinema tonight. | going / to go* / go | would like | to | would like + to (istek), like + -ing (genel hoşlanma).
+T | "He like swimming." doğrudur. | Y | Özne he | likes | He likes swimming.
+
+@A1.G10
+M | Look at the sky! It ___ rain. | will / is going to* / goes to | Kanıt var (bulutlar). | be going to | Görünen kanıta dayalı tahmin → going to.
+M | I ___ visit my aunt this weekend. (plan) | am going to* / going to / will to | Plan | am going to | Önceden yapılmış plan: be going to.
+S | She is going to ___ (buy) a new phone. | buy | going to + ? | yalın | going to + yalın fiil.
+S | ___ you going to study tonight? | Are | Soru | be başa | Are you going to...?
+T | "He is going to goes home." doğrudur. | Y | going to + yalın | go | He is going to go home.
+
+@A1.G11
+M | 7:30 nasıl söylenir? | half to seven / half past seven* / seven half | yarım geçiyor | half past | 7:30 = half past seven.
+M | 8:45 nasıl söylenir? | quarter past eight / quarter to nine* / eight quarter | 9'a çeyrek var | quarter to | 8:45 = quarter to nine.
+S | 3:15 = quarter ___ three | past | çeyrek geçiyor | past | 3:15 = quarter past three.
+M | "Üçüncü" İngilizcede? | threeth / third* / thirth | Düzensiz sıra sayısı | third | first, second, third.
+S | 12. = twelf___ | th | twelve → twelfth | ve → f | twelfth (twelve'in v'si f olur).
+T | 13 ve 30 aynı şekilde vurgulanır. | Y | thirTEEN / THIRty | | thirteen'de vurgu sonda, thirty'de başta.
+
+@A1.G12
+M | I was hungry, ___ I ate a sandwich. | because / so* / but | Sonuç | so | Sonucun önüne so gelir.
+M | I stayed home ___ I was ill. | so / because* / or | Sebep | because | Sebebin önüne because gelir.
+S | Do you want tea ___ coffee? | or | Seçenek | or | or = veya.
+M | It's cheap ___ good. | so / but* / because | Karşıtlık gibi | but | Beklenenin aksi → but.
+T | "I was tired, because I went to bed early." mantıklıdır. | Y | Sebep-sonuç ters | so | I was tired, so I went to bed early.
+
+@A1.G13
+M | Choose the correct one. | a house big / a big house* / a bigs house | Sıfat isimden önce | a big house | Sıfat isimden önce gelir ve çoğul almaz.
+M | They are ___. | nices people / nice people* / people nices | Sıfat çoğul olmaz | nice | Sıfatlar -s almaz.
+S | The car is ___. (yeni) | new | be + sıfat | new | The car is new.
+M | She has ___ old car. | a / an* / - | old sesli sesle başlar | an | a/an sıfata göre: an old car.
+T | "I have two reds cars." doğrudur. | Y | Sıfat çoğul olmaz | two red cars | two red cars.
+
+@A1.G14
+M | Where ___ the station? | does / is* / do | to be sorusu | is | Where is the station?
+S | How old ___ you? | are | to be | are | How old are you?
+M | What ___ your name? | is* / does / do | to be | is | What is your name?
+S | Who ___ that man? | is | to be | is | Who is that man?
+T | "Where does she is?" doğrudur. | Y | to be ile does olmaz | Where is she? | Where is she?
+
+@A1.04 A1.05 A1.06
+W | Write 4–5 sentences about your daily routine. Use always, usually, sometimes. | 35 | I usually get up at 7 o'clock. I always have breakfast with my family. I go to school by bus. I sometimes play football after school. I never go to bed late. | he/she/it'e dikkat: she gets up. | Sıklık zarfı fiilden önce, to be'den sonra. | Geniş zaman + sıklık zarfları.
+
+@A1.16
+W | Write 4–5 sentences about what you did last weekend. | 35 | Last weekend I visited my grandparents. We had lunch together. On Sunday I went to the cinema with my friends. I didn't study. I was very happy. | Düzensiz fiiller: go → went, have → had. | Olumsuz: didn't + yalın fiil. | Geçmiş zaman (Past Simple).

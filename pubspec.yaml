@@ -1,0 +1,24 @@
+name: kelimelik
+description: Kişisel A1–B1 İngilizce çalışma uygulaması.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: 3.8.5  # 4.2+ Kotlin 2 ister; eski Flutter şablonuyla uyumlu sürüm
+  path_provider: ^2.1.4
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/content/
+    - assets/images/

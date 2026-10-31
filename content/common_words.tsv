@@ -1,0 +1,576 @@
+# kelime<TAB>anlam  (genel sözlük; metin sözlükçesinde olmayan kelimeler için)
+a	bir
+an	bir
+the	(belirli tanımlık) -ı, o
+i	ben
+me	beni, bana
+my	benim
+mine	benimki
+you	sen, siz; seni
+your	senin, sizin
+he	o (erkek)
+him	onu, ona (erkek)
+his	onun (erkek)
+she	o (kadın)
+her	onu, ona; onun (kadın)
+it	o (nesne, hayvan)
+its	onun (nesne)
+we	biz
+us	bizi, bize
+our	bizim
+they	onlar
+them	onları, onlara
+their	onların
+this	bu
+that	şu, o; ki
+these	bunlar
+those	şunlar
+am	-ım (be)
+is	-dır (be)
+are	-dır (be, çoğul)
+was	idi (be, geçmiş)
+were	idi (be, geçmiş çoğul)
+be	olmak
+been	olmuş (be V3)
+being	olmak, olan
+do	yapmak; (yardımcı fiil)
+does	yapar; (yardımcı fiil, he/she/it)
+did	yaptı; (geçmiş yardımcı fiil)
+done	yapılmış (do V3)
+don't	-maz (do not)
+doesn't	-maz (does not)
+didn't	-madı (did not)
+have	sahip olmak; (yardımcı fiil)
+has	sahip; (yardımcı fiil, he/she/it)
+had	sahipti; (Past Perfect yardımcı fiili)
+will	-ecek (gelecek)
+won't	-meyecek (will not)
+would	-erdi; (kibar istek)
+can	-ebilir
+can't	-emez
+could	-ebilirdi; -ebilir misin
+should	-meli
+must	-meli (zorunluluk)
+may	-ebilir
+might	-ebilir (olasılık)
+not	değil, -me
+no	hayır; hiç
+yes	evet
+and	ve
+but	ama
+or	veya
+so	bu yüzden; o kadar
+because	çünkü
+if	eğer
+when	ne zaman; -dığında
+while	-iken
+before	önce
+after	sonra
+then	sonra; o zaman
+than	-den (karşılaştırma)
+as	gibi; olarak; -dığı için
+of	-in, -den
+in	içinde, -de
+on	üstünde, -de
+at	-de (nokta, saat)
+to	-e; (mastar: to go)
+for	için; boyunca
+from	-den
+with	ile
+without	-sız, olmadan
+about	hakkında; yaklaşık
+by	tarafından; yanında; -e kadar
+into	içine
+out	dışarı
+up	yukarı
+down	aşağı
+over	üzerinde; bitti
+under	altında
+near	yakın
+next	sonraki; yanında
+behind	arkasında
+between	arasında
+around	etrafında; civarında
+through	içinden
+across	karşısına
+along	boyunca
+until	-e kadar
+since	-den beri
+ago	önce
+during	sırasında
+again	tekrar
+also	ayrıca, de
+too	de; çok (aşırı)
+very	çok
+really	gerçekten
+just	az önce; sadece
+only	sadece
+already	çoktan, zaten
+yet	henüz
+still	hâlâ
+always	her zaman
+usually	genellikle
+often	sık sık
+sometimes	bazen
+never	asla, hiç
+ever	hiç (soruda)
+now	şimdi
+today	bugün
+tomorrow	yarın
+yesterday	dün
+tonight	bu gece
+here	burada
+there	orada
+where	nerede
+what	ne
+who	kim
+whose	kimin
+which	hangi
+why	neden
+how	nasıl
+all	hepsi, bütün
+some	biraz, bazı
+any	hiç, herhangi
+every	her
+each	her bir
+many	çok (sayılabilen)
+much	çok (sayılamayan)
+more	daha
+most	en; çoğu
+few	az
+little	küçük; az
+other	diğer
+another	başka bir
+one	bir
+two	iki
+three	üç
+four	dört
+five	beş
+six	altı
+seven	yedi
+eight	sekiz
+nine	dokuz
+ten	on
+first	ilk, önce
+last	son; geçen
+good	iyi
+bad	kötü
+big	büyük
+small	küçük
+new	yeni
+old	eski; yaşlı
+young	genç
+long	uzun
+short	kısa
+happy	mutlu
+sad	üzgün
+tired	yorgun
+hungry	aç
+late	geç
+early	erken
+hot	sıcak
+cold	soğuk
+nice	güzel, hoş
+great	harika
+beautiful	güzel
+right	doğru; sağ
+wrong	yanlış
+ready	hazır
+busy	meşgul
+free	boş, serbest; bedava
+day	gün
+week	hafta
+month	ay
+year	yıl
+time	zaman; kez
+morning	sabah
+afternoon	öğleden sonra
+evening	akşam
+night	gece
+home	ev
+house	ev
+room	oda
+door	kapı
+window	pencere
+table	masa
+street	sokak
+city	şehir
+school	okul
+work	iş; çalışmak
+job	iş
+friend	arkadaş
+family	aile
+mother	anne
+father	baba
+mom	anne
+dad	baba
+brother	erkek kardeş
+sister	kız kardeş
+man	adam
+woman	kadın
+child	çocuk
+children	çocuklar
+people	insanlar
+person	kişi
+dog	köpek
+cat	kedi
+car	araba
+bus	otobüs
+train	tren
+water	su
+tea	çay
+coffee	kahve
+food	yemek
+bread	ekmek
+money	para
+book	kitap
+phone	telefon
+go	gitmek
+went	gitti
+gone	gitmiş
+come	gelmek
+came	geldi
+get	almak; olmak; varmak
+got	aldı; oldu
+make	yapmak
+made	yaptı
+take	almak
+took	aldı
+give	vermek
+gave	verdi
+see	görmek
+saw	gördü
+look	bakmak
+watch	izlemek; saat
+say	söylemek
+said	söyledi
+tell	anlatmak, söylemek
+told	söyledi, anlattı
+ask	sormak; rica etmek
+asked	sordu
+know	bilmek
+knew	bildi
+think	düşünmek
+thought	düşündü
+want	istemek
+need	ihtiyaç duymak
+like	sevmek; gibi
+love	sevmek
+help	yardım etmek; yardım
+play	oynamak
+live	yaşamak
+call	aramak
+called	aradı; adı ... olan
+open	açmak; açık
+close	kapatmak
+start	başlamak
+stop	durmak, bırakmak
+find	bulmak
+found	buldu
+leave	ayrılmak, bırakmak
+left	ayrıldı; sol
+put	koymak
+sit	oturmak
+sat	oturdu
+stand	ayakta durmak
+walk	yürümek
+run	koşmak
+ran	koştu
+eat	yemek
+ate	yedi
+drink	içmek
+sleep	uyumak
+slept	uyudu
+read	okumak
+write	yazmak
+wrote	yazdı
+speak	konuşmak
+talk	konuşmak
+listen	dinlemek
+hear	duymak
+heard	duydu
+feel	hissetmek
+felt	hissetti
+buy	satın almak
+bought	satın aldı
+pay	ödemek
+paid	ödedi
+wait	beklemek
+try	denemek
+use	kullanmak
+let	izin vermek
+keep	tutmak, devam etmek
+bring	getirmek
+brought	getirdi
+meet	tanışmak, buluşmak
+met	tanıştı, buluştu
+become	olmak
+became	oldu
+begin	başlamak
+began	başladı
+mr	Bay
+mrs	Bayan
+ms	Bayan
+ok	tamam
+okay	tamam
+please	lütfen
+thanks	teşekkürler
+thank	teşekkür etmek
+sorry	üzgünüm, özür dilerim
+hello	merhaba
+hi	selam
+bye	hoşça kal
+oh	ah, oh
+well	iyi; şey (düşünürken)
+sure	tabii, emin
+something	bir şey
+anything	herhangi bir şey; hiçbir şey (olumsuz)
+nothing	hiçbir şey
+everything	her şey
+someone	birisi
+anyone	herhangi biri; hiç kimse (olumsuz)
+everyone	herkes
+somewhere	bir yere
+lot	çok (a lot of)
+thing	şey
+way	yol; şekil
+place	yer
+minute	dakika
+hour	saat
+o'clock	saat (tam)
+name	isim, ad
+front	ön
+town	kasaba; şehir merkezi
+course	kurs; (of course) tabii ki
+twenty	yirmi
+thirty	otuz
+hundred	yüz (sayı)
+i'm	ben ...-im (I am)
+i've	ben ...-dim (I have)
+i'll	ben ...-eceğim (I will)
+i'd	ben ...-erdim / ...-mıştım (I would / I had)
+you're	sen ...-sin (you are)
+you've	sen ...-din (you have)
+you'll	sen ...-eceksin (you will)
+he's	o ...-dir (he is / he has)
+she's	o ...-dir (she is / she has)
+it's	o ...-dir (it is / it has)
+we're	biz ...-iz (we are)
+we've	biz ...-dik (we have)
+we'll	biz ...-eceğiz (we will)
+they're	onlar ...-dir (they are)
+they've	onlar ...-dı (they have)
+that's	bu/o ...-dir (that is)
+there's	... var (there is)
+what's	ne ...? (what is)
+let's	hadi ...-elim (let us)
+isn't	değil (is not)
+aren't	değil (are not)
+wasn't	değildi (was not)
+weren't	değildi (were not)
+haven't	...-medi (have not)
+hasn't	...-medi (has not)
+hadn't	...-memişti (had not)
+couldn't	-emedi, -emezdi
+wouldn't	-mezdi
+shouldn't	-memeli
+mustn't	-memeli (yasak)
+needn't	gerek yok
+bank	banka
+café	kafe
+cafe	kafe
+back	geri; sırt
+summer	yaz
+winter	kış
+spring	ilkbahar
+autumn	sonbahar
+deep	derin
+later	sonra, daha sonra
+question	soru
+answer	cevap; cevaplamak
+station	istasyon
+film	film
+pick	seçmek; toplamak
+weather	hava (durumu)
+card	kart
+changing	değişen; değiştirme
+enough	yeterli, yeterince
+euro	avro
+euros	avro
+sale	satış; indirim
+shop	dükkan; alışveriş yapmak
+idea	fikir
+problem	sorun
+news	haber(ler)
+plan	plan; planlamak
+trip	gezi
+travel	seyahat etmek
+ticket	bilet
+hotel	otel
+room	oda
+city	şehir
+country	ülke
+world	dünya
+life	hayat
+word	kelime
+story	hikâye
+week	hafta
+weekend	hafta sonu
+hand	el
+head	baş
+eye	göz
+face	yüz
+body	vücut
+heart	kalp
+side	taraf, yan
+end	son
+part	parça, bölüm
+group	grup
+team	takım
+office	ofis
+company	şirket
+manager	yönetici, müdür
+boss	patron
+colleague	iş arkadaşı
+customer	müşteri
+price	fiyat
+cheap	ucuz
+expensive	pahalı
+easy	kolay
+difficult	zor
+important	önemli
+different	farklı
+same	aynı
+possible	mümkün
+impossible	imkânsız
+sure	emin
+true	doğru, gerçek
+real	gerçek
+quick	hızlı
+quickly	hızlıca
+slow	yavaş
+slowly	yavaşça
+fast	hızlı
+almost	neredeyse
+maybe	belki
+perhaps	belki
+probably	muhtemelen
+actually	aslında
+finally	sonunda
+suddenly	aniden
+together	birlikte
+alone	yalnız
+else	başka
+however	ancak
+although	-e rağmen
+instead	onun yerine
+anyway	neyse, her neyse
+though	gerçi; yine de
+mind	akıl; sakıncası olmak
+decide	karar vermek
+decided	karar verdi
+remember	hatırlamak
+forget	unutmak
+forgot	unuttu
+understand	anlamak
+explain	açıklamak
+agree	katılmak
+happen	olmak, meydana gelmek
+happened	oldu, meydana geldi
+change	değiştirmek; değişiklik
+move	taşınmak; hareket etmek
+return	geri dönmek
+arrive	varmak
+arrived	vardı
+send	göndermek
+sent	gönderdi
+receive	almak (teslim)
+show	göstermek
+learn	öğrenmek
+teach	öğretmek
+study	ders çalışmak
+finish	bitirmek
+continue	devam etmek
+win	kazanmak
+lose	kaybetmek
+lost	kaybetti; kayıp
+spend	harcamak; geçirmek
+save	biriktirmek; kurtarmak
+build	inşa etmek
+built	inşa edildi / etti
+grow	büyümek; yetiştirmek
+fall	düşmek
+fell	düştü
+break	kırmak
+broke	kırdı
+broken	kırık
+cut	kesmek
+carry	taşımak
+drive	araba sürmek
+drove	(araba) sürdü
+fly	uçmak
+flew	uçtu
+sell	satmak
+sold	sattı
+cook	pişirmek; aşçı
+clean	temizlemek; temiz
+wash	yıkamak
+wear	giymek
+wore	giydi
+born	doğmuş (be born)
+die	ölmek
+died	öldü
+kill	öldürmek
+grandfather	dede
+grandmother	büyükanne, nine
+photos	fotoğraflar
+photo	fotoğraf
+seen	görülmüş (see V3)
+fifteen	on beş
+forty	kırk
+fifty	elli
+honest	dürüst
+kept	tuttu; devam etti (keep)
+local	yerel
+sea	deniz
+second	ikinci; saniye
+sports	spor(lar)
+sport	spor
+swam	yüzdü (swim)
+swim	yüzmek
+worry	endişelenmek
+afraid	korkmuş; (I'm afraid) maalesef
+air	hava
+away	uzağa, uzakta
+better	daha iyi
+check	kontrol etmek
+conditioning	(air conditioning) klima
+garden	bahçe
+fully	tamamen
+half	yarım, yarı
+past	geçmiş; geçe (saat)
+quarter	çeyrek
+perfect	mükemmel
+you'd	sen ...-erdin / ...-sen iyi olur (you would / you had)
+despite	-e rağmen
+least	en az (at least: en azından)
+point	nokta; mesele
+terrible	berbat, korkunç
+monday	Pazartesi
+tuesday	Salı
+wednesday	Çarşamba
+thursday	Perşembe
+friday	Cuma
+saturday	Cumartesi
+sunday	Pazar
+january	Ocak
+february	Şubat
+march	Mart
+april	Nisan
+june	Haziran
+july	Temmuz
+august	Ağustos
+september	Eylül
+october	Ekim
+november	Kasım
+december	Aralık

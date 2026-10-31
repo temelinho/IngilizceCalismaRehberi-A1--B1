@@ -1,0 +1,433 @@
+# B1 metinleri
+
+#TEXT b1-s01 | B1 | story | short | The Old Bridge | B1.G19 B1.G25 B1.G20
+> The old stone bridge in our town was built in 1850.
+> It was designed by an engineer who had studied in Paris.
+> For more than a century, it was used by farmers who carried their vegetables to the market.
+> Last year, engineers discovered that the bridge was in danger.
+> Some of the stones had been damaged by heavy trucks.
+> The bridge was closed immediately, and a plan was made to repair it.
+> Now the work is being done by a local company.
+> The old stones are being cleaned, and the broken ones have been replaced.
+> The bridge will be opened again next spring, but trucks won't be allowed to cross it.
+%G
+stone = taş
+bridge = köprü
+was built = inşa edildi
+designed = tasarlandı
+engineer = mühendis
+had studied = okumuştu
+more than = -den fazla
+century = yüzyıl
+was used = kullanıldı
+farmers = çiftçiler
+carried = taşıdı
+vegetables = sebzeler
+market = pazar
+engineers = mühendisler
+discovered = keşfetti, fark etti
+in danger = tehlikede
+danger = tehlike
+stones = taşlar
+had been damaged = hasar görmüştü
+damaged = hasar görmüş
+heavy = ağır
+trucks = kamyonlar
+was closed = kapatıldı
+immediately = hemen
+was made = yapıldı
+repair = onarmak
+is being done = yapılıyor
+local = yerel
+are being cleaned = temizleniyor
+broken ones = kırık olanlar
+ones = olanlar
+have been replaced = değiştirildi
+replaced = değiştirildi
+will be opened = açılacak
+spring = ilkbahar
+won't be allowed = izin verilmeyecek
+allowed = izin verilen
+cross = karşıya geçmek
+paris = Paris
+%Q
+M | When was the bridge built? | in 1950 / in 1850* / last year | İlk cümle | was built | It was built in 1850. | r1
+S | It was designed ___ an engineer. | by | Edilgende yapan | by | It was designed by an engineer. | r2
+M | Why was the bridge closed? | It was too old. / Some stones had been damaged.* / A truck fell into the river. | 5. cümle | had been damaged | Some of the stones had been damaged by heavy trucks. | r5
+M | "The work is being done by a local company." Hangi zaman? | Past Simple passive / Present Continuous passive* / Future passive | is being + V3 | | is being done = Present Continuous passive. | r7
+T | Trucks will be allowed to cross the bridge again. | Y | Son cümle | won't be allowed | Trucks won't be allowed to cross it. | r9
+S | The farmers ___ carried their vegetables were the main users. (relative) | who / that | İnsan | who | farmers who carried... | r3
+
+#TEXT b1-s02 | B1 | story | medium | A Message from the Past | B1.G06 B1.G22 B1.G12
+> Last month, while Ahmet was cleaning his grandmother's attic, he found an old wooden box.
+> Inside it there were letters, photos and a small notebook.
+> The notebook had belonged to his grandfather, who had died before Ahmet was born.
+> Ahmet had always wondered what kind of man his grandfather had been.
+> He sat on the dusty floor and started reading.
+> In one letter, his grandfather had written to his grandmother: "I am working in Germany now. I will come back when I have saved enough money."
+> Ahmet's grandmother told him later that his grandfather had worked in a car factory for six years.
+> She said he had sent money home every month and that he had written a letter every week.
+> "Why didn't he ever talk about those years?" Ahmet asked.
+> His grandmother explained that it had been a very lonely time for him.
+> "He didn't speak German, and he missed us terribly," she said.
+> Ahmet felt sad.
+> He thought he should have asked his father more questions about his grandfather.
+> He might have learned these stories years ago.
+> That evening, he called his father and told him what he had found.
+> His father was quiet for a long time.
+> Then he said, "I haven't seen those letters for forty years. Can you bring them to me?"
+> The next weekend, the whole family sat together and read the letters.
+> For the first time, Ahmet felt that he really knew his grandfather.
+%G
+was cleaning = temizliyordu
+attic = çatı katı
+wooden = ahşap
+box = kutu
+inside = içinde
+letters = mektuplar
+notebook = defter
+had belonged = ait olmuştu
+belonged = ait idi
+had died = ölmüştü
+was born = doğdu
+had always wondered = hep merak etmişti
+wondered = merak etti
+kind = tür
+had been = olmuştu
+dusty = tozlu
+floor = zemin, yer
+started reading = okumaya başladı
+had written = yazmıştı
+written = yazılmış (write V3)
+germany = Almanya
+german = Almanca
+saved = biriktirdi
+told = anlattı, söyledi
+had worked = çalışmıştı
+factory = fabrika
+had sent = göndermişti
+ever = hiç
+asked = sordu
+explained = açıkladı
+lonely = yalnız
+missed = özledi
+terribly = çok fazla, korkunç derecede
+felt = hissetti
+sad = üzgün
+should have asked = sormalıydı
+might have learned = öğrenebilirdi
+learned = öğrendi
+years ago = yıllar önce
+quiet = sessiz
+forty = kırk
+whole = bütün
+for the first time = ilk kez
+really = gerçekten
+knew = tanıdı, bildi
+grandmother's = büyükannesinin
+ahmet = Ahmet (isim)
+ahmet's = Ahmet'in
+%Q
+M | What was Ahmet doing when he found the box? | reading letters / cleaning the attic* / visiting his father | İlk cümle | was + -ing | while Ahmet was cleaning his grandmother's attic | r1
+T | Ahmet met his grandfather when he was a child. | Y | 3. cümle | had died before | His grandfather had died before Ahmet was born. | r3
+S | His grandmother said he ___ ___ in a car factory for six years. | had worked | Reported speech, Past Perfect | had + V3 | ...that his grandfather had worked in a car factory. | r7
+M | Why didn't the grandfather talk about those years? | He forgot them. / It had been a lonely time.* / He was angry. | 10. cümle | lonely | It had been a very lonely time for him. | r10
+S | He thought he ___ ___ asked his father more questions. (pişmanlık) | should have | Geçmiş pişmanlık | should have + V3 | He should have asked his father more questions. | r13
+M | "I will come back" in reported speech: He wrote that he ___ come back. | will / would* / had | will → would | | will → would. | r6
+T | Ahmet's father had seen the letters recently. | Y | forty years | | I haven't seen those letters for forty years. | r17
+W | Retell the story in 4–5 sentences using reported speech (said, told, asked). | 45 | Ahmet found a box of letters in the attic. His grandmother told him that his grandfather had worked in Germany. She said that he had felt very lonely there. Ahmet asked why his grandfather had never talked about it. His father said he hadn't seen the letters for forty years. | said / told + zaman kaydırma | asked + why + düz cümle | Reported speech.
+
+#TEXT b1-s03 | B1 | story | long | Learning to Swim at Forty | B1.G03 B1.G04 B1.G08 B1.G31 B1.G41
+> Gül is forty-two years old, and she has been learning to swim for six months.
+> When she was a child, she lived in a small town in the middle of Anatolia, far from the sea.
+> There wasn't a swimming pool in the town, so she never learned.
+> Although she has lived in Antalya for fifteen years, she had never swum in the sea until this year.
+> "I used to sit on the beach and watch my children play in the water," she says.
+> "I was embarrassed, and to be honest, I was also afraid."
+> Last spring, her daughter persuaded her to try.
+> She found a course for adults at the local sports centre.
+> The first lesson was terrible.
+> "I couldn't even put my face in the water," she remembers.
+> "I nearly gave up after the second lesson."
+> But her teacher, a calm young man called Emre, told her not to worry.
+> He said that many adults had the same problem and that the most important thing was to relax.
+> So Gül kept going.
+> She has been going to the pool three times a week since April.
+> She has learned to float, and she can now swim twenty metres without stopping.
+> "I'm still getting used to breathing correctly," she laughs.
+> "But I'm not afraid anymore."
+> Her children are very proud of her.
+> Last weekend the whole family went to the beach, and for the first time Gül swam in the sea with them.
+> "The water was cold and the waves were bigger than in the pool," she says.
+> "Despite that, it was one of the best days of my life."
+> Gül's next goal is to swim one kilometre before her next birthday.
+> "If you really want something," she says, "your age doesn't matter. The only thing you need is to start."
+%G
+forty-two = kırk iki
+has been learning = öğreniyor (…-dir)
+swim = yüzmek
+middle = orta
+anatolia = Anadolu
+far from = -den uzak
+far = uzak
+swimming pool = yüzme havuzu
+pool = havuz
+learned = öğrendi
+antalya = Antalya
+had never swum = hiç yüzmemişti
+swum = yüzmüş (swim V3)
+until = -e kadar
+used to sit = eskiden otururdu
+beach = plaj, sahil
+children = çocuklar
+embarrassed = utanmış, mahcup
+to be honest = dürüst olmak gerekirse
+afraid = korkmuş
+daughter = kız evlat
+persuaded = ikna etti
+course = kurs
+adults = yetişkinler
+sports centre = spor merkezi
+centre = merkez
+lesson = ders
+terrible = berbat
+even = bile
+face = yüz
+remembers = hatırlıyor
+nearly = neredeyse
+gave up = vazgeçti, bıraktı
+calm = sakin
+young = genç
+told her not to worry = endişelenmemesini söyledi
+relax = rahatlamak
+kept going = devam etti
+has been going = gidiyor (…-den beri)
+three times a week = haftada üç kez
+since = -den beri
+april = Nisan
+float = suyun üstünde durmak
+metres = metre
+without stopping = durmadan
+getting used to = alışıyor
+breathing = nefes alma
+correctly = doğru şekilde
+laughs = gülüyor
+anymore = artık
+proud of = -den gurur duyan
+proud = gururlu
+whole = bütün
+waves = dalgalar
+bigger = daha büyük
+despite = -e rağmen
+best = en iyi
+goal = hedef
+kilometre = kilometre
+birthday = doğum günü
+age = yaş
+matter = önemli olmak
+doesn't matter = önemli değil
+gül = Gül (isim)
+gül's = Gül'ün
+emre = Emre (isim)
+%Q
+M | How long has Gül been learning to swim? | for six years / for six months* / since she was a child | İlk cümle | for + süre | She has been learning to swim for six months. | r1
+M | Why didn't she learn to swim as a child? | She didn't like water. / There wasn't a pool in her town.* / She was ill. | 3. cümle | | There wasn't a swimming pool in the town. | r3
+T | Gül swam in the sea many times before this year. | Y | had never swum | | She had never swum in the sea until this year. | r4
+S | "I nearly gave ___ after the second lesson." | up | Vazgeçmek | give up | gave up = vazgeçti | r11
+M | What did Emre tell her? | to stop / not to worry* / to buy new glasses | Reported command | not to + V1 | He told her not to worry. | r12
+S | She ___ ___ going to the pool three times a week since April. | has been | Present Perfect Continuous | has been + -ing | She has been going... | r15
+M | "I'm still getting used to breathing correctly." means: | She breathes perfectly. / Breathing correctly is becoming easier for her.* / She used to breathe correctly. | get used to + -ing | alışıyor | Henüz tam alışmadı, alışma sürecinde. | r17
+S | ___ that, it was one of the best days of my life. (-e rağmen) | Despite / In spite of | + isim/zamir | despite | Despite that, ... | r22
+M | What is Gül's next goal? | to swim in a race / to swim one kilometre* / to become a teacher | goal | | to swim one kilometre before her next birthday | r23
+W | Write about something you started learning as an adult or recently. Use the Present Perfect Continuous. | 50 | I have been learning to play the guitar for eight months. At first it was very difficult and my fingers hurt. I nearly gave up after a few weeks. But I have been practising every evening since January. Now I can play three songs. I'm still getting used to changing chords quickly. | have been + -ing + for/since | give up / get used to | Present Perfect Continuous.
+
+#TEXT b1-d01 | B1 | dialog | medium | A Hotel Complaint | B1.G27 B1.G12 B1.G21 A2.11
+> Receptionist: Good evening. How can I help you?
+> Nora: Good evening. I'm in room 214. I'm afraid there's a problem with my room.
+> Receptionist: I'm sorry to hear that. What's the problem?
+> Nora: The air conditioning isn't working, and it's very hot. I can't sleep.
+> Receptionist: Oh, I apologise. Have you tried using the remote control?
+> Nora: Yes, I have. I've been trying for twenty minutes. I think it's broken.
+> Receptionist: I see. I'll have it checked by our technician right away.
+> Nora: Thank you. Could you tell me how long it will take?
+> Receptionist: It might take about an hour. Would you like to change rooms instead?
+> Nora: Yes, that would be better. Do you know if there's a quiet room available?
+> Receptionist: Let me check. Yes, room 305 is free. It's on the third floor and it faces the garden.
+> Nora: Perfect. To be honest, I should have called earlier.
+> Receptionist: Not at all. Someone will help you with your luggage.
+> Receptionist: And breakfast is free for you tomorrow, as an apology.
+> Nora: That's very kind of you. Thank you.
+%G
+receptionist = resepsiyonist
+i'm afraid = maalesef, korkarım ki
+sorry to hear that = bunu duyduğuma üzüldüm
+air conditioning = klima
+working = çalışıyor
+apologise = özür dilerim
+tried = denediniz
+remote control = uzaktan kumanda
+remote = uzaktan
+control = kumanda
+have been trying = deniyorum (…-dir)
+broken = bozuk
+i'll have it checked = kontrol ettireceğim
+checked = kontrol edilmiş
+technician = teknisyen
+right away = hemen
+could you tell me = söyleyebilir misiniz
+how long = ne kadar (süre)
+about = yaklaşık
+change rooms = oda değiştirmek
+instead = onun yerine
+do you know if = ... olup olmadığını biliyor musunuz
+quiet = sessiz
+available = müsait, boş
+third = üçüncü
+floor = kat
+faces = bakıyor (cephe)
+perfect = mükemmel
+to be honest = açıkçası
+should have called = aramalıydım
+earlier = daha önce, daha erken
+not at all = hiç önemli değil
+luggage = bagaj, valiz
+breakfast = kahvaltı
+apology = özür
+kind = nazik
+nora = Nora (isim)
+%Q
+M | What is the problem in Nora's room? | The TV is broken. / The air conditioning isn't working.* / The room is dirty. | 4. cümle | | The air conditioning isn't working. | r4
+S | How long has she been trying to use the remote? | for twenty minutes / twenty minutes / 20 minutes / for 20 minutes | for + süre | | I've been trying for twenty minutes. | r6
+M | "I'll have it checked by our technician." means: | The receptionist will check it himself. / A technician will check it.* / Nora must check it. | have something done | | Başkasına yaptırmak: teknisyen kontrol edecek. | r7
+M | Which is an indirect question? | How long will it take? / Could you tell me how long it will take?* / How long it will take? | Kibar, düz sıra | | Could you tell me how long it will take? | r8
+T | Room 305 faces the street. | Y | faces the garden | | It faces the garden. | r11
+S | "I ___ ___ called earlier." (pişmanlık) | should have | should have + V3 | | I should have called earlier. | r12
+M | What does the hotel offer as an apology? | a free night / free breakfast* / a discount | Son kısım | | Breakfast is free for you tomorrow. | r14
+
+#TEXT b1-d02 | B1 | dialog | medium | Making an Appointment | B1.G02 B1.G09 B1.G22 B1.G13
+> Receptionist: Good morning, Green Dental Clinic. How can I help you?
+> Mehmet: Hello. I'd like to make an appointment with Dr. Lewis, please.
+> Receptionist: Of course. Is it urgent?
+> Mehmet: Not really, but one of my teeth has been hurting since the weekend.
+> Receptionist: I see. Dr. Lewis is fully booked this week, I'm afraid.
+> Receptionist: The earliest appointment is on Monday at half past nine.
+> Mehmet: Monday morning is difficult. I'll be working then. Is there anything in the afternoon?
+> Receptionist: Let me see. There's a free slot on Tuesday at quarter to five.
+> Mehmet: That's perfect. My office closes at four on Tuesdays.
+> Receptionist: Can I have your name and phone number, please?
+> Mehmet: Mehmet Demir. My number is 0532 418 77 90.
+> Receptionist: Thank you, Mr. Demir. If the pain gets worse, you'd better call us again.
+> Receptionist: We keep two emergency appointments free every day.
+> Mehmet: OK, thank you. And should I bring anything with me?
+> Receptionist: Just your ID card. And please arrive ten minutes early.
+> Mehmet: Fine. See you on Tuesday.
+%G
+dental clinic = diş kliniği
+dental = diş (ile ilgili)
+clinic = klinik
+make an appointment = randevu almak
+appointment = randevu
+dr = Dr. (doktor)
+urgent = acil
+not really = pek değil
+teeth = dişler
+has been hurting = ağrıyor (…-den beri)
+hurting = ağrıyan
+fully booked = tamamen dolu
+booked = rezerve edilmiş
+earliest = en erken
+half past nine = dokuz buçuk
+i'll be working = çalışıyor olacağım
+free slot = boş saat
+slot = zaman aralığı
+quarter to five = beşe çeyrek var
+closes = kapanır
+number = numara
+pain = ağrı
+gets worse = kötüleşir
+worse = daha kötü
+you'd better = ...-sen iyi olur
+emergency = acil durum
+id card = kimlik kartı
+fine = tamam, iyi
+see you = görüşürüz
+green = Green (klinik adı); yeşil
+lewis = Lewis (soyadı)
+mehmet = Mehmet (isim)
+demir = Demir (soyadı)
+%Q
+M | Why does Mehmet need a dentist? | He wants a check-up. / One of his teeth has been hurting.* / He broke a tooth. | 4. cümle | has been hurting | One of my teeth has been hurting since the weekend. | r4
+T | Mehmet can come on Monday morning. | Y | I'll be working | | Monday morning is difficult. I'll be working then. | r7
+S | What time is the appointment on Tuesday? | quarter to five / at quarter to five / 4:45 / at 4:45 | Saat | | Tuesday at quarter to five. | r8
+M | "I'll be working then." Hangi zaman? | Future Continuous* / Present Continuous / Future Simple | will be + -ing | | Future Continuous. | r7
+S | If the pain gets worse, you'd ___ call us again. | better | had better | | you'd better call us again. | r12
+M | What should he bring? | money / his ID card* / an X-ray | Son kısım | | Just your ID card. | r15
+
+#TEXT b1-d03 | B1 | dialog | medium | Should We Ban Cars from the City Centre? | B1.G41 B1.G43 B1.G29 B1.G11
+> Leyla: Did you read the news? The council wants to ban cars from the city centre.
+> Okan: Yes, I did. I think it's a great idea.
+> Leyla: Really? I'm not so sure. Lots of people need their cars for work.
+> Okan: That's true, but the air in the centre is terrible because of the traffic.
+> Leyla: I agree that pollution is a problem. However, public transport here isn't very good.
+> Okan: That's the point. If there are fewer cars, the buses will be faster.
+> Leyla: Maybe. But what about shop owners? They might lose customers.
+> Okan: Actually, in many European cities, shops have more customers after the ban, because people walk more.
+> Leyla: Hmm, I didn't know that. That must be because walking is more pleasant without traffic.
+> Okan: Exactly. And the city would be quieter and safer for children.
+> Leyla: I still think they should improve the buses first.
+> Okan: So do I. They should do both at the same time.
+> Leyla: Well, at least we agree on something!
+> Okan: Despite our different opinions, we usually do.
+%G
+news = haberler
+council = belediye meclisi
+ban = yasaklamak; yasak
+city centre = şehir merkezi
+centre = merkez
+not so sure = pek emin değilim
+lots of = birçok
+true = doğru
+air = hava
+because of = yüzünden
+traffic = trafik
+agree = katılıyorum
+pollution = kirlilik
+however = ancak
+public transport = toplu taşıma
+public = kamu
+transport = ulaşım
+that's the point = mesele de bu
+fewer = daha az (sayılabilen)
+faster = daha hızlı
+what about = peki ya
+owners = sahipler
+shop owners = dükkân sahipleri
+might lose = kaybedebilir
+customers = müşteriler
+actually = aslında
+european = Avrupa'ya ait
+walk = yürümek
+must be = olmalı (çıkarım)
+pleasant = hoş
+without = olmadan
+exactly = kesinlikle, aynen
+quieter = daha sessiz
+safer = daha güvenli
+still = hâlâ
+improve = iyileştirmek
+so do i = ben de
+both = ikisi de
+at the same time = aynı anda
+at least = en azından
+opinions = fikirler
+leyla = Leyla (isim)
+okan = Okan (isim)
+hmm = hmm
+%Q
+M | What does the council want to do? | build more roads / ban cars from the centre* / close the shops | İlk cümle | ban | The council wants to ban cars from the city centre. | r1
+M | Why is Leyla worried at first? | She likes driving. / Many people need cars for work.* / She owns a shop. | 3. cümle | | Lots of people need their cars for work. | r3
+S | Leyla: I agree that pollution is a problem. ___, public transport here isn't very good. | However | Karşıtlık, yeni cümle | however | However, ... | r5
+M | According to Okan, what happens to shops after a ban in many cities? | They close. / They have more customers.* / Nothing changes. | Actually ... | | Shops have more customers after the ban. | r8
+M | "That must be because walking is more pleasant." must burada ne anlatır? | zorunluluk / güçlü tahmin* / yasak | Çıkarım | | must = eminim öyle (çıkarım). | r9
+S | Leyla: They should improve the buses first. Okan: So ___ I. | do | Katılma | do | So do I. | r12
+W | What is your opinion about banning cars from city centres? Write 5–6 sentences with although / however / because of. | 60 | I think banning cars from city centres is a good idea. Because of the traffic, the air in many cities is very dirty. Although some people need their cars, most people could use public transport. However, the city should improve buses and trams first. I think the centre would be quieter and safer. | although + cümle, despite + isim | however / because of | Fikir bildirme.

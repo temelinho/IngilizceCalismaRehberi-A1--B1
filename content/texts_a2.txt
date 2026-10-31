@@ -1,0 +1,454 @@
+# A2 metinleri
+
+#TEXT a2-s01 | A2 | story | short | The Puppy | A2.28 A2.29 A2.30
+> Last winter I was reading a magazine in the living room when the doorbell rang.
+> My neighbor, Mrs. Clark, was standing at the door with a small puppy.
+> "I found him in the street," she said.
+> "Can you look after him for one night?"
+> I used to be afraid of dogs when I was a child, but this puppy was different.
+> He had soft brown fur and curious eyes.
+> He didn't bite anyone.
+> That night he slept next to my bed.
+> I have had him for almost a year now, and he is a member of the family.
+%G
+winter = kış
+was reading = okuyordum
+magazine = dergi
+living room = oturma odası
+doorbell = kapı zili
+rang = çaldı (ring)
+neighbor = komşu
+was standing = duruyordu
+puppy = yavru köpek
+found = buldu
+street = sokak
+look after = bakmak, ilgilenmek
+used to be = eskiden ...-dı
+afraid = korkmuş, korkan
+afraid of = -den korkmak
+different = farklı
+soft = yumuşak
+brown = kahverengi
+fur = tüy, kürk
+curious = meraklı
+eyes = gözler
+bite = ısırmak
+anyone = kimseyi
+next to = yanında
+bed = yatak
+have had = sahibim (…-den beri)
+almost = neredeyse
+member = üye
+member of the family = aileden biri
+clark = Clark (soyadı)
+%Q
+M | What was the narrator doing when the doorbell rang? | sleeping / reading a magazine* / watching TV | İlk cümle | was + -ing | I was reading a magazine when the doorbell rang. | r1
+T | The narrator has always loved dogs. | Y | used to | eskiden korkardı | I used to be afraid of dogs. | r5
+S | How long has the narrator had the puppy? | almost a year / for almost a year / nearly a year / for nearly a year | Son cümle | How long → for + süre | I have had him for almost a year now. | r9
+S | I ___ ___ ___ (be) afraid of dogs when I was a child. | used to be | Eskiden | used to + yalın | I used to be afraid of dogs. | r5
+M | What does "curious" mean? | korkak / meraklı* / mutlu | Kelime | | curious = meraklı. | r6
+M | Who brought the puppy? | the narrator's mother / a neighbor* / a friend | 2. cümle | neighbor = komşu | My neighbor, Mrs. Clark, was standing at the door. | r2
+W | Why did Mrs. Clark come to the door? Answer in 1–2 sentences. | 10 | She came because she had found a puppy in the street and wanted the narrator to look after him for one night. | 3. ve 4. cümleler | found / look after | Cevap 3. ve 4. cümlelerde.
+
+#TEXT a2-s02 | A2 | story | medium | The Lost Wallet | A2.28 A2.34 A2.05
+> It was a rainy Monday morning.
+> Deniz was walking to the bus stop when she realized something terrible.
+> Her wallet wasn't in her bag!
+> She looked everywhere, but she couldn't find it.
+> She called her brother, but he didn't answer.
+> When she arrived at work, she was very nervous.
+> Her money, her ID card and her bank card were all in that wallet.
+> At lunchtime her phone rang.
+> It was a man from the café near her house.
+> "Good afternoon. Did you lose a wallet?" he asked.
+> "Yes! Did you find it?" Deniz asked.
+> "A customer found it under a table this morning," the man said.
+> Deniz suddenly remembered.
+> She had stopped at the café for a coffee before she went to the bus stop.
+> The wallet had fallen out of her bag while she was paying.
+> After work, she went to the café and took her wallet.
+> Nothing was missing.
+> She thanked the man and bought a big box of chocolates for the customer.
+> "From now on, I'll always close my bag," she said.
+%G
+rainy = yağmurlu
+was walking = yürüyordu
+bus stop = otobüs durağı
+realized = fark etti
+terrible = korkunç, berbat
+wallet = cüzdan
+bag = çanta
+looked = baktı
+everywhere = her yere
+couldn't = -emedi
+called = aradı
+answer = cevap vermek
+arrived = vardı
+nervous = gergin
+id card = kimlik kartı
+id = kimlik
+bank card = banka kartı
+card = kart
+lunchtime = öğle arası
+rang = çaldı (ring)
+lose = kaybetmek
+customer = müşteri
+under = altında
+suddenly = aniden
+remembered = hatırladı
+had stopped = uğramıştı, durmuştu
+had fallen out = düşmüştü
+fallen = düşmüş (fall V3)
+paying = ödeme yaparken
+missing = eksik, kayıp
+thanked = teşekkür etti
+box = kutu
+chocolates = çikolatalar
+from now on = bundan sonra
+close = kapatmak
+deniz = Deniz (isim)
+%Q
+M | What was Deniz doing when she realized the problem? | waiting for the bus / walking to the bus stop* / drinking coffee | 2. cümle | was + -ing | She was walking to the bus stop when she realized... | r2
+T | Deniz's brother answered the phone. | Y | 5. cümle | didn't answer | He didn't answer. | r5
+M | Where was the wallet? | in the street / at the café* / at work | Telefon eden adam | café | A customer found it under a table (at the café). | r12
+S | She ___ ___ at the café before she went to the bus stop. (stop) | had stopped | Daha önce olan | had + V3 | She had stopped at the café for a coffee. | r14
+M | Why was Deniz nervous at work? | She was late. / Her wallet was lost.* / Her boss was angry. | 6–7. cümleler | | Cüzdanı kayıptı; içinde parası ve kartları vardı. | r7
+M | What did she buy for the customer? | flowers / a box of chocolates* / a coffee | Sondan bir önceki cümle | | She bought a big box of chocolates for the customer. | r18
+S | The wallet fell out while she ___ ___. (pay) | was paying | while + süren eylem | was + -ing | while she was paying. | r15
+T | Some money was missing from the wallet. | Y | Nothing ... | | Nothing was missing = Hiçbir şey eksik değildi. | r17
+
+#TEXT a2-s03 | A2 | story | medium | My Grandfather's Village | A2.29 A2.20 A2.23
+> When I was a child, I used to spend every summer in my grandfather's village.
+> The village was much smaller than our city, and it was much quieter.
+> There weren't any cars on the roads, only tractors and a few old buses.
+> My grandfather used to get up before the sun.
+> He fed the chickens, and then he worked in the fields all day.
+> I used to help him, but I wasn't very hardworking!
+> In the afternoons my cousins and I used to swim in the river.
+> The water was colder than the sea, but we loved it.
+> In the evenings we sat in the garden and my grandmother told us stories.
+> She was the best storyteller in the family.
+> Life there was simpler than life in the city.
+> People didn't have much money, but they were happy.
+> Last year I went back to the village for the first time in ten years.
+> Many things had changed.
+> There is a new road now and most of the young people have moved to the city.
+> But my grandfather still gets up before the sun.
+%G
+grandfather = dede
+grandfather's = dedemin
+village = köy
+used to spend = eskiden geçirirdim
+spend = (zaman) geçirmek
+much smaller = çok daha küçük
+smaller = daha küçük
+quieter = daha sessiz
+roads = yollar
+road = yol
+tractors = traktörler
+buses = otobüsler
+used to get up = eskiden kalkardı
+sun = güneş
+fed = besledi (feed)
+chickens = tavuklar
+fields = tarlalar
+hardworking = çalışkan
+afternoons = öğleden sonraları
+cousins = kuzenler
+swim = yüzmek
+river = nehir
+colder = daha soğuk
+sea = deniz
+loved = çok sevdik
+garden = bahçe
+grandmother = büyükanne, nine
+stories = hikâyeler
+best = en iyi
+storyteller = hikâye anlatıcısı
+life = hayat
+simpler = daha basit
+went back = geri döndü
+changed = değişmişti
+had changed = değişmişti
+young = genç
+moved = taşındı
+have moved = taşındılar
+still = hâlâ
+%Q
+M | Where did the narrator spend every summer? | at the sea / in the grandfather's village* / in a big city | İlk cümle | used to spend | I used to spend every summer in my grandfather's village. | r1
+S | The village was much ___ than the city. (small) | smaller | Karşılaştırma | -er | much smaller than our city. | r2
+T | The narrator was very hardworking. | Y | 6. cümle | wasn't | I wasn't very hardworking! | r6
+M | Who was the best storyteller in the family? | the grandfather / the grandmother* / a cousin | the best | | She (the grandmother) was the best storyteller. | r10
+S | My grandfather ___ ___ get up before the sun. (eskiden) | used to | Eskiden alışkanlık | used to | My grandfather used to get up before the sun. | r4
+M | What has changed in the village? | There are no people. / There is a new road.* / The river is gone. | Son kısım | | There is a new road now. | r15
+T | The grandfather doesn't get up early anymore. | Y | Son cümle | still | He still gets up before the sun. | r16
+W | Write 3–4 sentences about what you used to do when you were a child. | 30 | When I was a child, I used to play football in the street every day. I used to visit my grandparents in the summer. I didn't use to like vegetables. Now I love them. | used to + yalın fiil | didn't use to | used to.
+
+#TEXT a2-s04 | A2 | story | long | A Job Interview | A2.30 A2.G37 A2.25 A2.04
+> Murat has just finished university.
+> He studied architecture for four years, and now he is looking for his first job.
+> He has already sent his CV to ten companies, but only one company has called him.
+> His interview is tomorrow morning at ten o'clock in Istanbul.
+> Murat lives in Bursa, so he is going to take the early bus.
+> Tonight he is very nervous.
+> He has never been to a job interview before.
+> His older sister, Elif, is an accountant.
+> She has had many interviews, so she is giving him some advice.
+> "You should wear your dark suit," she says.
+> "And you shouldn't be late. The bus might be late because of the traffic, so you should leave early."
+> "What will they ask me?" Murat asks.
+> "They will probably ask about your experience," Elif answers.
+> "Have you prepared some examples of your projects?"
+> "Yes, I have. I've put them in a folder."
+> "Good. Be honest, and don't speak too fast. Smile and look at them when you talk."
+> Murat thinks for a moment.
+> "What if they ask me a question and I don't know the answer?"
+> "Then say so. It's better than inventing an answer," Elif says.
+> The next morning Murat gets up at five.
+> He puts on his suit, takes his folder and goes to the bus station.
+> The bus isn't late, and he arrives in Istanbul at nine.
+> He has a coffee near the office and reads his notes again.
+> At ten o'clock the door opens, and a woman says, "Mr. Kaya? Please come in."
+> Murat takes a deep breath and walks in.
+> One hour later he comes out with a big smile.
+> He doesn't know the result yet, but he thinks it went well.
+> On the way home, he calls Elif.
+> "I think I will get the job," he says.
+> "I'm sure you will," she answers.
+%G
+has just finished = az önce bitirdi
+just = az önce
+finished = bitirdi
+university = üniversite
+studied = okudu (bölüm)
+architecture = mimarlık
+looking for = arıyor
+first = ilk
+job = iş
+has already sent = çoktan gönderdi
+already = çoktan, zaten
+sent = gönderdi
+cv = özgeçmiş
+companies = şirketler
+company = şirket
+has called = aradı
+interview = iş görüşmesi, mülakat
+tomorrow = yarın
+istanbul = İstanbul
+bursa = Bursa
+early = erken
+nervous = gergin
+has never been = hiç bulunmadı
+before = daha önce
+older sister = abla
+accountant = muhasebeci
+advice = tavsiye
+giving advice = tavsiye veriyor
+should = -meli
+wear = giymek
+dark = koyu
+suit = takım elbise
+shouldn't = -memeli
+might = -ebilir (olasılık)
+because of = yüzünden
+traffic = trafik
+leave = çıkmak, ayrılmak
+probably = muhtemelen
+experience = deneyim
+prepared = hazırladın
+examples = örnekler
+projects = projeler
+put = koydu
+folder = klasör
+honest = dürüst
+fast = hızlı
+smile = gülümsemek; gülümseme
+for a moment = bir an
+moment = an
+what if = ya ... olursa
+answer = cevap
+say so = bunu söyle
+better = daha iyi
+inventing = uydurmak
+puts on = giyer
+bus station = otogar
+arrives = varır
+office = ofis
+notes = notlar
+deep breath = derin nefes
+breath = nefes
+come in = içeri gel
+comes out = çıkar
+result = sonuç
+yet = henüz
+went well = iyi geçti
+on the way home = eve dönerken
+get the job = işi almak
+sure = emin
+kaya = Kaya (soyadı)
+elif = Elif (isim)
+murat = Murat (isim)
+%Q
+M | What did Murat study? | engineering / architecture* / accounting | 2. cümle | | He studied architecture for four years. | r2
+S | How many companies has he sent his CV to? | ten / 10 | 3. cümle | | He has already sent his CV to ten companies. | r3
+T | Murat has been to many job interviews. | Y | never | | He has never been to a job interview before. | r7
+M | Why should he leave early? | The office is far. / The bus might be late.* / He wants coffee. | Elif'in tavsiyesi | might | The bus might be late because of the traffic. | r11
+S | "You ___ wear your dark suit." (tavsiye) | should | Tavsiye | should | You should wear your dark suit. | r10
+M | What should he do if he doesn't know an answer? | invent an answer / say that he doesn't know* / stay silent | Elif'in son tavsiyesi | | Then say so. It's better than inventing an answer. | r19
+M | Who is Elif? | his friend / his older sister* / his teacher | 8. cümle | | His older sister, Elif, is an accountant. | r8
+T | Murat knows the result of the interview. | Y | yet | | He doesn't know the result yet. | r27
+S | "I think I ___ get the job." (tahmin) | will | I think + ? | will | I think I will get the job. | r29
+W | Give advice to a friend who has a job interview tomorrow. Write 4 sentences with should / shouldn't. | 30 | You should go to bed early tonight. You should wear smart clothes. You shouldn't be late, so leave home early. You should be honest and smile. | should + yalın fiil | shouldn't + yalın fiil | should (tavsiye).
+
+#TEXT a2-d01 | A2 | dialog | short | At the Doctor's | A2.25 A2.27 A2.30
+> Doctor: Good morning. What's the problem?
+> Selin: I've had a terrible headache for three days.
+> Doctor: I see. Have you got a temperature?
+> Selin: Yes, a little. And my throat hurts.
+> Doctor: Have you taken any medicine?
+> Selin: I've taken some painkillers, but they haven't helped.
+> Doctor: Let me look at your throat. Open your mouth, please.
+> Doctor: Hmm, it's quite red. You've got an infection.
+> Selin: Is it serious?
+> Doctor: No, don't worry. But you must take these tablets three times a day.
+> Doctor: You should drink a lot of water and you should rest.
+> Selin: Do I have to stay at home?
+> Doctor: Yes, you shouldn't go to work for two or three days.
+> Selin: OK. Thank you, doctor.
+%G
+doctor = doktor
+problem = sorun
+terrible = berbat, çok kötü
+headache = baş ağrısı
+i see = anlıyorum
+temperature = ateş; sıcaklık
+a little = biraz
+throat = boğaz
+hurts = acıyor
+taken = aldın (take V3)
+medicine = ilaç
+painkillers = ağrı kesiciler
+helped = yardımcı oldu, işe yaradı
+let me = izin verin ...yim
+mouth = ağız
+quite = oldukça
+red = kırmızı
+infection = enfeksiyon
+serious = ciddi
+worry = endişelenmek
+tablets = tabletler
+three times a day = günde üç kez
+rest = dinlenmek
+stay = kalmak
+selin = Selin (isim)
+hmm = hmm
+%Q
+M | How long has Selin had a headache? | for two days / for three days* / since yesterday | 2. cümle | for + süre | I've had a terrible headache for three days. | r2
+T | The painkillers helped Selin. | Y | haven't helped | | They haven't helped. | r6
+M | What is the problem with her throat? | It's fine. / It's red, she has an infection.* / It's broken. | Doktor muayene ediyor | | It's quite red. You've got an infection. | r8
+S | How many times a day must she take the tablets? | three times / three / three times a day / 3 times | must | | three times a day | r10
+M | Does Selin have to stay at home? | No, she doesn't. / Yes, for two or three days.* / Yes, for a week. | Son kısım | | You shouldn't go to work for two or three days. | r13
+
+#TEXT a2-d02 | A2 | dialog | short | Weekend Plans | A2.26 A2.G37 A1.G10 A2.04
+> Zeynep: Hi Burak! What are you going to do this weekend?
+> Burak: I'm not sure yet. Maybe I'll stay at home and watch a film.
+> Zeynep: That's boring! Why don't we go to the lake on Saturday?
+> Burak: Good idea! But the weather forecast says it might rain.
+> Zeynep: Really? Then let's go on Sunday. It's going to be sunny on Sunday.
+> Burak: OK. How are we going to get there?
+> Zeynep: My brother is going to lend me his car. I'll pick you up at nine.
+> Burak: Great. Shall I bring some food?
+> Zeynep: Yes, please. I'll bring drinks and fruit.
+> Burak: Would you like to invite Ece too?
+> Zeynep: Sure! I'll call her tonight.
+%G
+weekend = hafta sonu
+not sure = emin değil
+maybe = belki
+stay = kalmak
+boring = sıkıcı
+why don't we = neden ... -mıyoruz (öneri)
+lake = göl
+idea = fikir
+weather forecast = hava durumu tahmini
+forecast = tahmin
+might = -ebilir
+rain = yağmur yağmak
+let's = hadi ...-elim
+sunny = güneşli
+lend = ödünç vermek
+pick you up = seni almak (arabayla)
+pick up = (arabayla) almak
+shall i = ...-eyim mi
+bring = getirmek
+drinks = içecekler
+fruit = meyve
+would you like to = ...-mek ister misin
+invite = davet etmek
+zeynep = Zeynep (isim)
+burak = Burak (isim)
+ece = Ece (isim)
+%Q
+M | Why don't they go on Saturday? | Burak is busy. / It might rain.* / The lake is closed. | Hava durumu | might | The weather forecast says it might rain. | r4
+M | How are they going to get to the lake? | by bus / by car* / on foot | Zeynep'in kardeşi | lend | My brother is going to lend me his car. | r7
+S | What time will Zeynep pick Burak up? | at nine / nine / at 9 / 9 | I'll pick you up | | I'll pick you up at nine. | r7
+T | Burak is going to bring drinks. | Y | Kim ne getirecek? | Zeynep: drinks | Burak getirecek: food; Zeynep: drinks and fruit. | r9
+M | "Why don't we go to the lake?" is ... | a question about the past / a suggestion* / a complaint | Why don't we | öneri | Why don't we...? = öneri. | r3
+
+#TEXT a2-d03 | A2 | dialog | medium | Buying a Jacket | A2.11 A2.20 A2.08 A2.09
+> Assistant: Hello. Can I help you?
+> Kerem: Yes, please. I'm looking for a winter jacket.
+> Assistant: What size are you?
+> Kerem: Medium, I think.
+> Assistant: How about this one? It's very warm.
+> Kerem: It's nice, but it's too expensive. Have you got anything cheaper?
+> Assistant: This black one is cheaper, and it's on sale this week.
+> Kerem: Could I try it on, please?
+> Assistant: Of course. The changing rooms are over there.
+> Kerem: Hmm, it's too small for me. Have you got it in a larger size?
+> Assistant: Let me check. Yes, here's a large.
+> Kerem: This one is better. But is it warm enough for the winter in Erzurum?
+> Assistant: Yes, it's one of the warmest jackets in the shop.
+> Kerem: Great. How much is it?
+> Assistant: It's eighty euros.
+> Kerem: OK, I'll take it. Can I pay by card?
+> Assistant: Of course.
+%G
+assistant = satış görevlisi
+looking for = arıyorum
+winter = kış
+jacket = ceket, mont
+size = beden
+medium = orta (beden)
+how about = ... nasıl, peki ya ...
+warm = sıcak (tutan)
+too expensive = çok pahalı
+expensive = pahalı
+cheaper = daha ucuz
+black = siyah
+on sale = indirimde
+could i = ...-ebilir miyim
+try it on = üzerinde denemek
+try on = denemek (giysi)
+changing rooms = deneme kabinleri
+over there = şurada
+too small = çok küçük
+larger = daha büyük
+large = büyük (beden)
+check = kontrol etmek
+better = daha iyi
+warm enough = yeterince sıcak
+warmest = en sıcak
+eighty = seksen
+take = almak
+pay by card = kartla ödemek
+erzurum = Erzurum
+kerem = Kerem (isim)
+hmm = hmm
+%Q
+M | What is Kerem looking for? | shoes / a winter jacket* / a suit | 2. cümle | | I'm looking for a winter jacket. | r2
+M | What's wrong with the first jacket? | It's too small. / It's too expensive.* / It's not warm. | too | | It's nice, but it's too expensive. | r6
+S | Could I ___ it on, please? | try | try on | | Could I try it on, please? | r8
+T | The black jacket is too big for him. | Y | too small | | It's too small for me. | r10
+M | Is the large jacket warm enough? | No, it isn't. / Yes, it's one of the warmest.* / He doesn't know. | warm enough | | It's one of the warmest jackets in the shop. | r13
+S | How much is the jacket? | eighty euros / 80 euros | Fiyat | | It's eighty euros. | r15

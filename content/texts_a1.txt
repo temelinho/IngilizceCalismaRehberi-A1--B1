@@ -1,0 +1,189 @@
+# A1 metinleri
+
+#TEXT a1-s01 | A1 | story | short | Ayşe's Day | A1.04 A1.05 A1.03
+> Ayşe is a nurse.
+> She lives in Ankara with her family.
+> She always gets up at six o'clock.
+> She has breakfast with her mother and father.
+> Then she goes to the hospital by bus.
+> She works from seven to three.
+> She likes her job, but it is very busy.
+> In the evening she usually reads a book or watches TV.
+> She never goes to bed late.
+> On Sundays she doesn't work.
+> She meets her friends at a café.
+%G
+nurse = hemşire
+gets up = kalkar
+breakfast = kahvaltı
+hospital = hastane
+works = çalışır
+busy = yoğun, meşgul
+usually = genellikle
+reads = okur
+watches = izler
+goes to bed = yatar
+café = kafe
+meets = buluşur
+sundays = pazar günleri
+ayşe = Ayşe (isim)
+%Q
+M | What is Ayşe's job? | teacher / nurse* / doctor | İlk cümleye bak. | job = meslek | Ayşe is a nurse. | r1
+M | What time does she get up? | at seven / at six* / at three | Saat | at + saat | She always gets up at six o'clock. | r3
+T | Ayşe goes to the hospital by car. | Y | Ulaşım | by bus | She goes to the hospital by bus. | r5
+S | Where does she meet her friends on Sundays? (iki kelime) | at a café / a café / at a cafe / a cafe / café / cafe | Son cümle | at a ... | She meets her friends at a café. | r11
+M | What does she usually do in the evening? | goes out / reads or watches TV* / works | usually | Akşam | In the evening she usually reads a book or watches TV. | r8
+S | She ___ (not / work) on Sundays. | doesn't work / does not work | Olumsuz, she | doesn't + yalın | On Sundays she doesn't work. | r10
+
+#TEXT a1-s02 | A1 | story | short | A New Flat | A1.08 A1.G08 A1.14
+> My name is Can.
+> I have a new flat in Izmir.
+> It is small, but it is very nice.
+> There is a living room, a kitchen and a bedroom.
+> There are two big windows in the living room.
+> The sofa is next to the window.
+> There is a small table in front of the sofa.
+> In the kitchen there is a fridge, but there isn't a dishwasher.
+> My bed is under the window in the bedroom.
+> From the window I can see the sea.
+> I love my new flat!
+%G
+flat = daire, apartman dairesi
+living room = oturma odası
+kitchen = mutfak
+bedroom = yatak odası
+windows = pencereler
+sofa = kanepe
+next to = yanında
+in front of = önünde
+fridge = buzdolabı
+dishwasher = bulaşık makinesi
+bed = yatak
+sea = deniz
+izmir = İzmir
+can = Can (isim); -ebilir
+%Q
+M | Where is Can's flat? | Ankara / Izmir* / Istanbul | 2. cümle | in + şehir | I have a new flat in Izmir. | r2
+M | How many windows are there in the living room? | one / two* / three | there are | sayı | There are two big windows. | r5
+T | There is a dishwasher in the kitchen. | Y | there isn't | olumsuz | There isn't a dishwasher. | r8
+S | The sofa is ___ ___ the window. (yanında) | next to | Yer edatı | next ... | The sofa is next to the window. | r6
+M | What can Can see from the window? | the park / the sea* / the city | Son cümlelerden biri | see = görmek | From the window I can see the sea. | r10
+
+#TEXT a1-s03 | A1 | story | medium | My Last Holiday | A1.16 A1.03
+> Last summer I went to Antalya with my family.
+> We went there by plane.
+> The weather was very hot and sunny.
+> Our hotel was near the beach.
+> Every morning we swam in the sea.
+> In the afternoon we slept in our room because it was too hot.
+> In the evening we walked in the old town and ate fish.
+> My little brother bought a big hat.
+> One day we visited an ancient city.
+> It was very interesting, but we were tired at the end of the day.
+> My father took a lot of photos.
+> We stayed there for one week.
+> I didn't want to go home!
+> It was a great holiday.
+%G
+summer = yaz
+holiday = tatil
+went = gitti
+plane = uçak
+weather = hava (durumu)
+sunny = güneşli
+hotel = otel
+near = yakın
+beach = plaj, sahil
+swam = yüzdü (swim)
+sea = deniz
+slept = uyudu
+walked = yürüdü
+old town = eski şehir, tarihî merkez
+ate = yedi
+fish = balık
+little brother = küçük erkek kardeş
+bought = satın aldı
+hat = şapka
+visited = ziyaret etti
+ancient = antik
+interesting = ilginç
+end = son
+took photos = fotoğraf çekti
+photos = fotoğraflar
+lot = çok (a lot of)
+stayed = kaldı
+antalya = Antalya
+%Q
+M | How did they go to Antalya? | by bus / by plane* / by car | 2. cümle | by + araç | We went there by plane. | r2
+M | What was the weather like? | cold / hot and sunny* / rainy | weather | sıfatlar | The weather was very hot and sunny. | r3
+S | What did they do every morning? They ___ in the sea. | swam | Düzensiz fiil | swim → ? | Every morning we swam in the sea. | r5
+T | They slept in the afternoon because they were ill. | Y | because'tan sonrası | too hot | Çünkü hava çok sıcaktı. | r6
+M | What did the little brother buy? | a bag / a hat* / a book | bought | | My little brother bought a big hat. | r8
+S | How long did they stay there? | one week / for one week / a week / for a week | for + süre | stayed | We stayed there for one week. | r12
+M | Which sentence is in the text? | We were tired at the end of the day.* / We were bored all the time. / We didn't like the food. | Antik şehir günü | | It was very interesting, but we were tired at the end of the day. | r10
+
+#TEXT a1-d01 | A1 | dialog | short | At the Café | A1.12 A1.G07 A1.G06
+> Waiter: Good morning. What would you like?
+> Ali: I'd like a tea, please.
+> Waiter: Would you like anything to eat?
+> Ali: Yes. Have you got any cheese sandwiches?
+> Waiter: Sorry, we haven't got any cheese sandwiches. We have chicken sandwiches.
+> Ali: OK, one chicken sandwich, please. How much is that?
+> Waiter: That's eight euros.
+> Ali: Here you are.
+> Waiter: Thank you. Enjoy your meal!
+%G
+waiter = garson
+would like = ister
+cheese = peynir
+sandwiches = sandviçler
+sandwich = sandviç
+chicken = tavuk
+how much = ne kadar (fiyat)
+euros = avro
+here you are = buyurun
+enjoy = keyfini çıkar
+meal = yemek, öğün
+%Q
+M | What does Ali want to drink? | coffee / tea* / water | I'd like ... | | I'd like a tea, please. | r2
+T | They have cheese sandwiches. | Y | Sorry ... | haven't got | We haven't got any cheese sandwiches. | r5
+S | How much is the sandwich? (sayı + para birimi) | eight euros / 8 euros | That's ... | | That's eight euros. | r7
+M | What does "Here you are" mean? | Buradasın / Buyurun* / Neredesin | Para verirken | | Here you are = Buyurun (bir şey uzatırken). | r8
+
+#TEXT a1-d02 | A1 | dialog | short | Meeting a New Friend | A1.G01 A1.G14 A1.06
+> Emma: Hi! I'm Emma. What's your name?
+> Mert: Hello, Emma. I'm Mert. Nice to meet you.
+> Emma: Nice to meet you too. Where are you from?
+> Mert: I'm from Turkey. I'm from Bursa. And you?
+> Emma: I'm from England, from Manchester. How old are you?
+> Mert: I'm twenty-two. I'm a student at the university.
+> Emma: Really? What do you study?
+> Mert: I study engineering. What do you do?
+> Emma: I'm an English teacher. I work at a language school here.
+> Mert: Great! Maybe you can help me with my English.
+> Emma: Of course!
+%G
+nice to meet you = tanıştığıma memnun oldum
+where are you from = nerelisin
+turkey = Türkiye
+england = İngiltere
+twenty-two = yirmi iki
+student = öğrenci
+university = üniversite
+really = gerçekten mi
+study = okumak, çalışmak (ders)
+engineering = mühendislik
+teacher = öğretmen
+english = İngilizce
+language school = dil okulu
+language = dil
+maybe = belki
+of course = tabii ki
+great = harika
+bursa = Bursa
+manchester = Manchester
+%Q
+M | Where is Emma from? | Bursa / Manchester* / London | Where are you from? | | I'm from England, from Manchester. | r5
+S | How old is Mert? | twenty-two / 22 | How old | | I'm twenty-two. | r6
+M | What does Mert study? | English / engineering* / medicine | What do you study? | | I study engineering. | r8
+T | Emma works at a university. | Y | Emma'nın işi | language school | I work at a language school. | r9

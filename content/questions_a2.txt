@@ -1,0 +1,366 @@
+# A2 soruları
+
+@A2.01
+M | ___ she happy? | Does / Is* / Do | happy sıfat | to be | Sıfatla to be: Is she happy?
+M | She ___ work on Sundays. | isn't / doesn't* / don't | Normal fiil work | doesn't | Normal fiil olumsuzu: doesn't + yalın.
+S | ___ they students? | Are | students isim → to be | Are | Are they students?
+T | "Does he be a doctor?" doğrudur. | Y | to be varsa do/does yok | Is he a doctor? | Is he a doctor?
+M | My brother ___ in a bank. | is work / works* / is works | Normal fiil | works | My brother works in a bank.
+S | He ___ (not) tired today. | isn't / is not / 's not | tired sıfat | to be | He isn't tired.
+
+@A2.02
+M | I ___ football yesterday. | play / played* / am playing | yesterday | Past Simple | Geçmiş: played.
+M | She didn't ___ the film. | liked / like* / likes | didn't + ? | yalın | didn't + yalın fiil.
+M | They will ___ us tomorrow. | visits / visit* / visiting | will + ? | yalın | will + yalın fiil.
+S | ___ you playing the guitar now? | Are | -ing var | am/is/are | -ing görünce be ara.
+S | We ___ going to buy a car. | are / 're | going to | are | We are going to buy a car.
+T | "Will she comes?" doğrudur. | Y | will + yalın | come | Will she come?
+M | What ___ you doing? | do / are* / did | -ing | are | What are you doing?
+
+@A2.03
+M | What do you do? (meslek) | I'm reading. / I'm a nurse.* / I read yesterday. | do you do = meslek | rutin/meslek | What do you do? mesleği/genel işi sorar.
+M | What are you doing? | I'm cooking.* / I cook every day. / I cooked. | şu an | Present Continuous | What are you doing? = şu an ne yapıyorsun.
+S | What ___ you do yesterday? — I played football. | did | Geçmiş | did | What did you do?
+S | What ___ you do tomorrow? — I will visit my friend. | will | Gelecek | will | What will you do tomorrow?
+T | "What do you do?" sorusuna "I'm watching TV." doğal bir cevaptır. | Y | Meslek/rutin sorusu | I'm a teacher. | Şu anki eylem What are you doing? ile sorulur.
+
+@A2.04
+M | Take an umbrella. It ___ rain. (belki) | will / might* / is | %50 | might | Olasılık → may/might.
+M | ___ she will come tomorrow. | May be / Maybe* / Might | belki | tek kelime | maybe = belki (cümle başı).
+M | He may ___ at home. | is / be* / being | may + ? | yalın | may/might + yalın fiil.
+S | We ___ not go to the party. (belki gitmeyiz; might) | might | olumsuz olasılık | might not | We might not go.
+T | "He maybe tired." doğrudur. | Y | maybe ≠ may be | He may be tired / Maybe he is tired | Ya "He may be tired" ya "Maybe he is tired".
+M | I'm sure she ___ pass the exam. | might / will* / maybe | Eminim | will | Emin olunca will.
+
+@A2.05
+M | I will call you when I ___ home. | will get / get* / got | when'den sonra will? | Present Simple | Zaman cümleciğinde will yok: when I get home.
+M | She arrived before the plane ___. | leaves / left* / will leave | Geçmiş | Past + Past | Geçmişte iki taraf Past Simple.
+S | After she ___ (go) home, I will call her. | goes | Gelecek, after cümleciği | Present Simple | after + Present Simple, ana cümle will.
+M | ___ I saw my cat, I got happy. | When* / When, / Will | Başa gelen zaman cümlesi | virgül | When I saw my cat, I got happy.
+T | "Before I will leave, I will call you." doğrudur. | Y | before'dan sonra will olmaz | Before I leave | Before I leave, I will call you.
+S | I always call her after she ___ (get) home. | gets | Genel alışkanlık | Present + Present | Alışkanlık: iki taraf Present Simple.
+M | "I ate before I went out." Hangisi önce oldu? | I went out / I ate* / Aynı anda | before'dan sonraki olay daha geç | | before'dan sonraki olay (went out) sonra oldu; önce yemek yendi.
+
+@A2.06
+M | If you heat ice, it ___. | will melt / melts* / melted | Genel doğru | Zero | Zero conditional: present + present.
+M | If I study, I ___ pass. | would / will* / passed | Gerçek olasılık | First | First conditional: present + will.
+M | If I ___ rich, I would buy a car. | am / were* / will be | Hayali | Second: past | Second conditional: If I were...
+S | If it ___ (rain), we will stay home. | rains | if'ten sonra will yok | Present Simple | If it rains, ...
+M | If I were you, I ___ see a doctor. | will / would* / am | Tavsiye, hayali | would | If I were you, I would...
+T | "If I will see him, I will tell him." doğrudur. | Y | if tarafında will yok | If I see him | If I see him, I will tell him.
+S | If she had a car, she ___ drive to work. | would | Second conditional | would | If + past, would + yalın.
+
+@A2.07
+M | When I was four, I ___ swim. | can / could* / can to | Geçmiş yetenek | could | Geçmiş genel yetenek: could.
+M | The exam was hard, but I ___ pass it. | could / was able to* / can | Tek seferlik başarı | was able to | Tek seferlik başarı için was able to.
+S | She ___ able to speak three languages. | is | be able to | is | She is able to...
+M | I ___ find my keys yesterday. | couldn't* / can't / wasn't able | Olumsuz geçmiş | couldn't | Olumsuzda couldn't = wasn't able to.
+T | "He can to drive." doğrudur. | Y | can + yalın | can drive | He can drive.
+S | Birds ___ fly. (yetenek) | can / are able to | Genel yetenek | can | Birds can fly.
+
+@A2.08
+M | This box is ___ heavy, but I can lift it. | too / very* / enough | Sorun yok | very | very = çok ama iş olur.
+M | This box is ___ heavy, so I can't lift it. | very / too* / so | Sorun var | too | too = aşırı, iş olmaz.
+M | He is too short ___ basketball. | for play / to play* / playing | too ... to | to + fiil | too + sıfat + to + fiil.
+M | This box is too heavy for him to ___. | lift* / lift it / lifting | Kuyruk kesme | | to + fiil'den sonra nesne tekrarlanmaz.
+S | There are too ___ people here. | many | people sayılabilen | many | too many + sayılabilen.
+S | I drink too ___ coffee. | much | coffee sayılamaz | much | too much + sayılamayan.
+
+@A2.09
+M | She is ___ to vote. | enough old / old enough* / too old | sıfat + enough | | Sıfat + enough.
+M | I don't have ___. | money enough / enough money* / enough of money | enough + isim | | enough isimden önce.
+S | He's 15. He isn't old ___ to drive. | enough | yeterince | enough | old enough to drive.
+M | Is this bag light enough ___ carry? | to me / for me to* / me to | enough + for + kişi + to | | light enough for me to carry.
+T | "too young to drive" ile "not old enough to drive" aynı anlamdadır. | D | too ↔ enough | | İkisi de "araba sürmek için çok genç" demektir.
+
+@A2.10
+M | She can ___. | swims / swim* / to swim | modal + ? | yalın | Modal + yalın fiil.
+M | He should ___ harder. | studies / study* / to study | modal | yalın | should + yalın.
+M | May I ___ your phone? | using / use* / to use | modal | yalın | May I use...?
+S | You must ___ (wear) a helmet. | wear | modal | yalın | must + yalın.
+T | "He could swam." doğrudur. | Y | could + yalın | swim | He could swim.
+
+@A2.11
+M | ___ I use your phone? (en resmî izin) | Can / May* / Will | resmî | May | May I...? en resmî izin.
+M | ___ you open the door, please? (en kibar rica) | May / Would* / Do | rica | Would you | Would you...? en kibar rica.
+T | "May you help me?" doğrudur. | Y | may sadece I ile | Could/Would you | Başkasından isterken: Could/Would you help me?
+S | Could you ___ (pass) me the salt? | pass | modal + yalın | pass | Could you pass me the salt?
+M | Can I borrow your pen? — ___ | Yes, of course.* / Yes, I can. / No, you mayn't. | İzin verme | | İzin isteğine: Sure / Yes, of course.
+
+@A2.12
+M | ___ here, please. | You come / Come* / Comes | Emir | özne yok | Emir cümlesinde özne yok.
+M | ___ touch that! | Not / Don't* / Doesn't | Olumsuz emir | Don't | Olumsuz emir hep Don't.
+S | ___ the window, please. (kapat) | Close | Emir | yalın fiil | Close the window.
+T | "Doesn't run in the corridor!" doğrudur. | Y | Olumsuz emir | Don't run | Don't run in the corridor!
+
+@A2.13
+M | Choose the correct order. | an old beautiful table / a beautiful old table* / an old table beautiful | Opinion önce | OSASCOM | Görüş (beautiful) yaştan (old) önce.
+M | Choose the correct order. | a small round table* / a round small table / a table small round | Size → Shape | | Boyut şekilden önce: small round.
+M | Choose the correct order. | a red Italian car* / an Italian red car / a car red Italian | Color → Origin | | Renk kökenden önce: red Italian.
+M | a ___ shop | shoes / shoe* / shoe's | İsim + isim | ilk isim tekil | İsim tamlamasında ilk isim tekil: a shoe shop.
+S | a nice ___ (wood) chair | wooden | Malzeme sıfatı | wood → wooden | Malzeme: wooden.
+M | Choose the correct one. | an expensive old silk scarf* / an old expensive silk scarf / a silk old expensive scarf | O-S-A-...-M | Opinion → Age → Material | expensive (görüş) → old (yaş) → silk (malzeme).
+
+@A2.14
+M | All of ___ students are here. | (boş bırak) / the* / a | of varsa the | of the | all of the students.
+M | One of the notebooks ___ red. | are / is* / were | one of the | tekil fiil | one of the + çoğul isim + tekil fiil.
+M | Most of the water ___ dirty. | are / is* / be | water sayılamaz | is | Sayılamayanla is.
+S | ___ of the students passed. (hiçbiri) | None | hiçbiri | none | None of the students...
+T | "All of students" doğrudur. | Y | of + the | all of the students | Ya "all of the students" ya "all students".
+
+@A2.15
+M | Every ___ is here. | students / student* / the students | every + ? | tekil | every + tekil isim.
+M | Everyone ___ happy. | are / is* / were | everyone tekil | is | everyone tekil fiil alır.
+S | Every one ___ the students has a book. | of | her biri | of | every one of the...
+M | Everything ___ ready. | are / is* / am | tekil | is | everything is.
+T | "Every students are here." doğrudur. | Y | every + tekil, is | Every student is here. | Every student is here.
+
+@A2.16
+M | This car is ___. | my / mine* / me | tek başına | pronoun | Tek başına: mine.
+M | Is this ___ bag? | your* / yours / you | isimden önce | adjective | your bag.
+S | This pen is ___. (o kadın) | hers | kadının, tek başına | hers | hers.
+M | These are the ___ books. (öğrencilerin) | student's / students'* / students's | -s'li çoğul | sadece ' | Çoğul -s ile bitiyorsa sadece kesme: students'.
+M | The ___ toys are here. (çocukların) | childrens' / children's* / childs' | düzensiz çoğul | 's | children's.
+T | "This house is their's." doğrudur. | Y | Zamirler kesme almaz | theirs | theirs (their's ❌).
+S | ___ bag is this? — It's mine. | Whose | Kimin? | whose | Whose = kimin.
+
+@A2.17
+M | I gave the book ___ her. | for / to* / at | ulaşma | to | give → to.
+M | She made a cake ___ me. | to / for* / at | yarar | for | make → for.
+M | He gave it to her. Diğer diziliş? | He gave her it. / Bu cümle çevrilmez.* / He gave to her it. | Direct object zamir | | Doğrudan nesne zamir (it) ise ikinci dizilişe çevrilmez.
+S | I wrote Michael a letter. = I wrote a letter ___ Michael. | to | write → to | to | wrote a letter to Michael.
+S | My mother made ___ a cake. (biz) | us | bize | us | made us a cake.
+
+@A2.18
+M | I came here ___ English. | for learn / to learn* / for learning | amaç fiil | to | Amaç fiil ise to.
+M | I opened the door ___ Kate. | to / for* / at | isim | for | for + isim.
+S | She works hard ___ order to get a job. | in | in order to | in | in order to = to (resmî).
+T | "I went to the shop for buy bread." doğrudur. | Y | amaç fiil | to buy | I went to the shop to buy bread.
+
+@A2.19
+M | My shirt is the same ___ yours. | like / as* / to | the same + ? | as | the same as.
+M | My car is similar ___ yours. | as / to* / from | similar + ? | to | similar to.
+M | My chair is different ___ yours. | as / to / from* | different + ? | from | different from.
+M | My car and yours are ___. | alike* / like / similar to | Tek başına sona | alike | İki özne + are alike.
+S | My car is ___ your car. (gibi) | like / similar to | nesne alır | like | like = similar to.
+T | "Our houses are similar to." doğrudur. | Y | İki özne, sona tek başına | are similar | Our houses are similar.
+
+@A2.20
+M | Mary is ___ John. | older than* / more old than / old than | Tek hece | -er than | Tek heceli: older than.
+M | She is ___ her brother. | intelligenter than / more intelligent than* / more intelligenter | Çok hece | more ... than | Çok heceli: more intelligent than.
+S | My grades are ___ (good) than my brother's. | better | Düzensiz | good → better | good – better – best.
+S | Her situation is ___ (bad) than before. | worse | Düzensiz | bad → worse | bad – worse – worst.
+M | Health is ___ than money. | importanter / more important* / most important | Çok hece | more | more important than.
+T | "My house is big than yours." doğrudur. | Y | -er + than | bigger | My house is bigger than yours.
+
+@A2.21
+M | Mark is as ___ as Jason. | taller / tall* / more tall | as ... as | yalın | as + yalın sıfat + as.
+M | This house is ___ a hotel. | not as big as* / less big than / as bigger as | Tek hece, azlık | not as ... as | Tek hecede less yerine not as...as.
+S | This car is ___ expensive than a Ferrari. (daha az) | less | Çok hece, azlık | less | less expensive than.
+T | "He is less tall than me." doğal bir kullanımdır. | Y | Tek hece | not as tall as | He is not as tall as me.
+M | My car is as ___ as an airplane. | fast* / faster / fastest | Eşitlik | yalın | as fast as.
+
+@A2.22
+M | He goes to school every day but I ___. | don't* / doesn't / am not | Normal fiil yankısı | do/does | Geniş zaman normal fiil → don't.
+M | Istanbul is a big city but Yalova ___. | doesn't / isn't* / not | to be yankısı | is | to be → isn't.
+S | We can swim but they ___. | can't / cannot | can yankısı | can | can't.
+S | They didn't go there but we ___. | did | Past yankısı | did | did.
+M | They weren't poor but we ___. | did / were* / was | Past to be | were | were.
+T | "Mary likes tea but I don't." doğrudur. | D | Normal fiil, I | don't | Doğru: yankı don't.
+
+@A2.23
+M | Kate is ___ person in this room. | oldest / the oldest* / the most old | Tek hece, en | the + -est | the oldest.
+M | Istanbul is ___ city in Turkey. | the most crowded* / the crowdedest / most crowded | Çok hece | the most | the most crowded.
+S | Steve got the ___ (good) grade in the exam. | best | Düzensiz | good → best | the best.
+M | He is one of the tallest ___ in the class. | boy / boys* / boy's | one of the + çoğul | | one of the + çoğul isim.
+M | One of the boys ___ very tall. | are / is* / be | tekil özne | is | One of the boys is...
+S | This is the ___ (bad) film I've ever seen. | worst | Düzensiz | bad → worst | the worst.
+
+@A2.24
+M | Jason drives ___. | careful / carefully* / more careful | Fiili niteliyor | zarf | Fiili zarf niteler: carefully.
+M | She speaks English ___. | good / well* / goodly | good → ? | well | good'un zarfı well.
+M | He works ___. | hardly / hard* / hardy | hard değişmez | hard | hard zarfı da hard; hardly = neredeyse hiç.
+S | Jim works ___ than his brother. (hard) | harder | Kısa zarf | -er | harder than.
+S | Chris speaks ___ fluently than Mary. | more | -ly zarf | more | more fluently.
+M | Mike runs ___ of all. | the fastest* / fastest / the most fast | Kısa zarf, en | the -est | the fastest.
+T | "She sings beautiful." doğrudur. | Y | Fiili niteliyor | beautifully | She sings beautifully.
+
+@A2.25
+M | You ___ stop smoking. | should* / should to / shoulds | Tavsiye | should + yalın | should + yalın fiil.
+M | You shouldn't ___ so fast. | drives / drive* / driving | modal | yalın | shouldn't + yalın.
+S | ___ I tell the truth? | Should | Soru | should başa | Should I...?
+T | "He should goes to bed." doğrudur. | Y | should + yalın | go | He should go to bed.
+
+@A2.26
+M | Let's ___ to the cinema. | going / go* / to go | Let's + ? | yalın | Let's + yalın fiil.
+M | Why don't ___ to the park? | go / we go* / going | Why don't + özne | | Why don't we go...?
+S | Let's ___ do it now. (olumsuz) | not | Let's not | not | Let's not do it now.
+T | "Why don't go we to the cinema?" doğrudur. | Y | Why don't + özne + fiil | Why don't we go | Why don't we go to the cinema?
+
+@A2.27
+M | Jane ___ wear a uniform. | have to / has to* / must to | she | has to | he/she/it → has to.
+M | You ___ smoke here. It's forbidden. | don't have to / mustn't* / not must | Yasak | mustn't | Yasak = mustn't.
+M | You ___ come. It's optional. | mustn't / don't have to* / must | Gerek yok | don't have to | Gerek yok = don't have to.
+S | ___ you have to go now? | Do | have to sorusu | do | Do you have to...?
+T | "mustn't" ile "don't have to" aynı anlamdadır. | Y | yasak / gerek yok | | mustn't = yasak, don't have to = gerek yok.
+S | He ___ study for the exam. (must) | must | must + yalın | must | He must study.
+
+@A2.28
+M | I ___ a book at 9 o'clock last night. | read / was reading* / am reading | Belli anda süren | was + -ing | Past Continuous: was reading.
+M | I was eating dinner when my father ___ home. | was coming / came* / comes | Ani olay | Past Simple | Süren + ani: was eating / came.
+M | It began to rain while we ___ a picnic. | had / were having* / have | while + süren | were + -ing | while + Past Continuous.
+S | ___ you sleeping when I called? | Were | Soru, you | were | Were you sleeping...?
+S | They ___ (study) English this time last week. | were studying | Süren eylem | were + -ing | were studying.
+T | "When" genelde süren eylemin, "while" kısa olayın önüne gelir. | Y | Tersi | when → kısa, while → süren | when → kısa/ani olay, while → süren eylem.
+M | While I was reading, my sister ___ to music. | listened / was listening* / listens | İki süren eylem | was + -ing | İki eylem de sürüyorsa iki taraf Past Continuous.
+
+@A2.29
+M | I ___ smoke, but I stopped. | use to / used to* / was used to | Eskiden | used to | Olumlu: used to.
+M | Did you ___ have long hair? | used to / use to* / using to | did varsa | use | did varsa d düşer: use to.
+S | I didn't ___ to like chocolate. | use | did + use | use | didn't use to.
+M | She used to ___ the guitar. | played / play* / playing | used to + ? | yalın | used to + yalın fiil.
+T | "I used to go to the gym last Monday." doğaldır. | Y | used to = uzun süre, alışkanlık | went | Tek seferlik: I went to the gym last Monday.
+
+@A2.30
+M | I have ___ painted the room. | yet / just* / ago | az önce | just | just = az önce, have ile V3 arası.
+M | I haven't finished ___. | already / yet* / just | henüz, cümle sonu | yet | yet olumsuzda cümle sonunda.
+M | I have lived here ___ two years. | since / for* / ago | süre | for | for + süre.
+M | She has worked here ___ 2020. | for / since* / ago | başlangıç noktası | since | since + nokta.
+M | I ___ him yesterday. | have seen / saw* / seen | yesterday zaman belli | Past Simple | Zaman belliyse Past Simple.
+S | ___ you ever been to Paris? | Have | deneyim | have | Have you ever...?
+S | She ___ (eat) sushi three times. | has eaten | Deneyim, she | has + V3 | has eaten.
+T | "I haven't never seen it." doğrudur. | Y | never zaten olumsuz | have never | I have never seen it.
+S | How long ___ she been in this city? | has | she | has | How long has she been...?
+
+@A2.34
+M | When I arrived, the train ___. (çoktan gitmişti) | left / had left* / has left | Daha önce olan | had + V3 | Önce olan: Past Perfect.
+M | She ___ her homework before she watched TV. | had finished* / has finished / finishing | Önce olan | had + V3 | had finished.
+S | By the time we got there, the film ___ (start). | had started | Daha önce | had + V3 | had started.
+M | I'd left = ? | I would left / I had left* / I did left | 'd + V3 | had | I'd + V3 = I had.
+T | "I had gone to Paris last year." tek bir geçmiş olay için doğrudur. | Y | Tek olay → Past Simple | went | I went to Paris last year.
+S | ___ you eaten before you came? | Had | Soru | had | Had you eaten...?
+
+@A2.35
+M | If I ___, I would have passed. | studied / had studied* / would study | Third conditional | had + V3 | If + had + V3.
+M | If she had left earlier, she ___ the bus. | wouldn't miss / wouldn't have missed* / didn't miss | Sonuç | would have + V3 | wouldn't have missed.
+M | ___ you study, you will fail. | If / Unless* / When | if ... not | unless | Unless = if not.
+T | "Unless you don't study, you will fail." doğrudur. | Y | unless zaten olumsuz | Unless you study | Unless you study, you will fail.
+S | If I ___ (know), I would have helped you. | had known | Third | had + V3 | If I had known...
+M | Hangi tip geçmişte olmamış bir durumu hayal eder? | Second / Third* / First | Geçmiş, hayali | | Third conditional geçmiş için hayalidir.
+
+@A2.36
+M | You are a student, ___? | are you / aren't you* / don't you | Olumlu → olumsuz tag | aren't you | aren't you?
+M | She isn't tired, ___? | isn't she / is she* / does she | Olumsuz → olumlu | is she | is she?
+M | He works here, ___? | isn't he / doesn't he* / don't he | Normal fiil, he | doesn't | doesn't he?
+M | I'm right, ___? | amn't I / aren't I* / am I not | I am özel | aren't I | aren't I?
+S | Let's go, ___ we? | shall | Let's | shall | Let's go, shall we?
+S | They didn't come, ___ they? | did | Olumsuz → olumlu | did | did they?
+M | He never lies, ___? | doesn't he / does he* / is he | never olumsuz | olumlu tag | never olumsuz sayılır → does he?
+S | There is a problem, isn't ___? | there | there tekrar | there | isn't there?
+
+@A2.31
+M | I'm keen on ___. | cook / cooking* / to cook | keen on + ? | -ing | keen on + -ing.
+M | What do you enjoy ___? | do / doing* / to do | enjoy + ? | -ing | enjoy + -ing.
+S | I would like ___ (watch) a film. | to watch | would like | to | would like + to.
+T | "Is this your day off?" = "Bugün izin günün mü?" | D | day off = izin günü | | Doğru.
+
+@A2.32
+M | I dreamed of ___ a pilot. | be / being* / to be | dream of + ? | -ing | Edattan sonra -ing.
+M | What did you want to ___ when you were a child? | was / be* / being | did + want + to | yalın | want to be.
+S | We used to play hide and ___. | seek | saklambaç | seek | hide and seek.
+T | "peers" = "yaşıtlar, akranlar" | D | | | Doğru.
+
+@A2.33
+M | How long have you ___ him? | have / had* / has | Present Perfect | have + V3 | have had.
+M | I've had him ___ he was a puppy. | for / since* / ago | başlangıç noktası | since | since + nokta.
+M | My mom won't ___ me have a pet. | let* / lets / letting | won't + ? | yalın | won't let me + yalın fiil.
+S | I'll stroke him as long as he ___ bite me. | doesn't / does not | as long as + present | doesn't | as long as'ten sonra will yok.
+S | What ___ sweet dog! | a | Ünlem | What a | What a sweet dog!
+
+@A2.G37
+M | The phone is ringing. I ___ answer it. | am going to / 'll* / am answering | Anlık karar | will | O anda verilen karar → will.
+M | I ___ buy a car next month. I've saved the money. | will / am going to* / buy | Önceden plan | going to | Önceden plan → going to.
+M | Look at those clouds! It ___ rain. | will / is going to* / rains | Kanıt | going to | Görünen kanıt → going to.
+S | I think she ___ win the match. (görüş) | will / 'll | Görüşe dayalı tahmin | will | I think + will.
+T | "I'm meeting Ali at 5." kesin bir randevudur. | D | Present Continuous | | Kesin ayarlamalarda Present Continuous.
+
+@A2.G38
+M | I ___ in a bank. (mesleğim) | am working / work* / works | Kalıcı | Present Simple | Kalıcı durum → Present Simple.
+M | I ___ from home this week. | work / am working* / works | Geçici | Present Continuous | Geçici durum → Present Continuous.
+S | She usually ___ (drink) tea, but today she is drinking coffee. | drinks | usually | Simple | Alışkanlık: drinks.
+M | I ___ what you mean. | am understanding / understand* / understands | Durum fiili | Simple | understand continuous olmaz.
+T | "Water is boiling at 100 degrees." genel bir doğruyu anlatır. | Y | Genel doğru | boils | Water boils at 100 degrees.
+
+@A2.G39
+M | I don't have ___ time. | many / much* / a few | time sayılamaz | much | Olumsuzda much + sayılamayan.
+M | Are there ___ people? | much / many* / a little | people sayılabilen | many | many + sayılabilen.
+M | I have ___ friends here. (birkaç) | a little / a few* / much | friends sayılabilen | a few | a few + sayılabilen.
+S | Add a ___ salt. (biraz) | little | salt sayılamaz | a little | a little + sayılamayan.
+M | She has ___ books. (olumlu, çok) | much / a lot of* / a little | Olumlu cümle | a lot of | Olumluda a lot of daha doğal.
+
+@A2.G40
+M | I enjoy ___. | to swim / swimming* / swim | enjoy + ? | -ing | enjoy + -ing.
+M | I want ___ a new phone. | buying / to buy* / buy | want + ? | to | want + to.
+M | She decided ___ at home. | staying / to stay* / stay | decide + ? | to | decide + to.
+S | He's good at ___ (cook). | cooking | Edattan sonra | -ing | Edattan sonra -ing.
+M | Have you finished ___? | to eat / eating* / eat | finish + ? | -ing | finish + -ing.
+T | "I'm interested in learn Spanish." doğrudur. | Y | in edattır | learning | interested in learning.
+
+@A2.G41
+M | English ___ here. | speaks / is spoken* / spoken | Edilgen | be + V3 | is spoken.
+M | This bridge ___ in 1973. | built / was built* / is build | Geçmiş edilgen | was + V3 | was built.
+S | The book was written ___ Orhan Pamuk. | by | yapan | by | by + yapan.
+M | Cars ___ in this factory. | make / are made* / are make | Edilgen, çoğul | are + V3 | are made.
+T | "The house was build last year." doğrudur. | Y | V3 | built | was built.
+S | ___ this cake made by your mother? | Was | Geçmiş edilgen soru | was | Was this cake made...?
+
+@A2.G42
+M | The man ___ lives next door is a doctor. | which / who* / where | İnsan | who | İnsan → who.
+M | The car ___ I bought is red. | who / which* / where | Nesne | which | Nesne → which.
+M | This is the city ___ I was born. | which / where* / who | Yer | where | Yer → where.
+S | The girl ___ won the prize is my sister. | who / that | İnsan | who | who / that.
+T | "The man who he lives here is kind." doğrudur. | Y | Özne tekrar edilmez | who lives | The man who lives here is kind.
+
+@A2.G43
+M | She's ___ doctor. | the / a* / - | Meslek | a | Meslek: a/an.
+M | I go to ___ school by bus. | the / a / -* | Kalıp | article yok | go to school.
+M | He plays ___ guitar. | a / the* / - | Çalgı | the | Çalgılar the alır.
+M | ___ dogs are friendly animals. (genel) | The / A / (article yok)* | Genelleme | article yok | Genellemede article kullanılmaz: Dogs are friendly animals.
+M | We play ___ football on Sundays. | the / a / -* | Spor | article yok | Sporlarla article yok.
+
+@A2.G44
+M | I met him two years ___. | before / ago* / since | önce | ago | süre + ago.
+M | I slept ___ the film. | while / during* / for | isim | during | during + isim.
+M | I'll wait ___ 6 o'clock. | by / until* / during | -e kadar (süre devam) | until | until = -e kadar sürer.
+M | Please finish it ___ Friday. | until / by* / ago | en geç | by | by = en geç.
+T | "during I was eating" doğrudur. | Y | cümle → while | while I was eating | Cümleyle while kullanılır.
+
+@A2.G45
+M | I ___ at 7 every day. (kalkmak) | get on / get up* / get off | kalkmak | get up | get up = kalkmak.
+M | I'm ___ my keys. (arıyorum) | looking for* / looking after / looking at | aramak | look for | look for = aramak.
+M | Please ___ the light. (kapat) | turn on / turn off* / turn up | kapatmak | turn off | turn off = kapatmak.
+S | He gave ___ smoking. | up | bırakmak | give up | give up = bırakmak.
+M | The music is loud. Turn ___. | it down* / down it / it of | Nesne zamir araya | turn it down | Zamir phrasal verb'ün arasına girer.
+
+@A2.G46
+M | She went ___ the room. | in / into* / inside of | içine hareket | into | Hareket → into.
+M | Walk ___ the street carefully. | through / across* / along | karşıdan karşıya | across | across = karşıya.
+M | We drove ___ the tunnel. | across / through* / over | içinden geçerek | through | through = içinden.
+S | We walked ___ the river. (boyunca) | along | boyunca | along | along the river.
+M | He got ___ of the car. | out* / off / from | arabadan inmek | out of | get out of the car.
+
+@A2.G47
+M | I like tea. — ___ | So do I.* / Neither do I. / So am I. | Olumlu, normal fiil | So do I | Olumluya katılma: So do I.
+M | I'm tired. — ___ | So do I. / So am I.* / Neither am I. | to be | So am I | to be → So am I.
+M | I don't like coffee. — ___ | So do I. / Neither do I.* / Neither don't I. | Olumsuz | Neither do I | Olumsuza katılma: Neither do I.
+S | I can swim. — So ___ I. | can | can | can | So can I.
+S | I wasn't there. — Neither ___ I. | was | was | was | Neither was I.
+
+@A2.28 A2.30 A2.34
+W | Write 5–6 sentences about a memorable day. Use the Past Continuous (was/were + -ing) and the Past Simple. | 50 | Last summer I was walking on the beach when I saw an old friend. We were both very surprised. We sat in a cafe and talked for hours. While we were talking, it started to rain. We had never laughed so much before. It was a great day. | Arka plan: was/were + -ing. | Kesen olay: Past Simple. | Anlatı zamanları.
+
+@A2.06 A2.35
+W | What would you do if you won a lot of money? Write 5 sentences. | 40 | If I won a lot of money, I would buy a house for my parents. I would travel around the world. I wouldn't stop working. I would give some money to poor people. If I were rich, I would also start my own company. | If + Past Simple, would + yalın fiil. | If I were... | Second conditional.
+
+@A2.20 A2.23
+W | Compare two cities you know. Use comparatives and superlatives. | 40 | Istanbul is bigger than Ankara. Ankara is quieter and cheaper than Istanbul. The traffic in Istanbul is the worst in Turkey. I think Ankara is more comfortable for students. But Istanbul is the most beautiful city I have ever seen. | Tek hece -er, çok hece more. | the + -est / the most | Karşılaştırma.
